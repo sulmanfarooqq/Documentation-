@@ -1,0 +1,7 @@
+THE HANDOFF (YOUR BIGGEST RISK)
+You closed the deal. Now you hand it to your team.
+If you just forward an email, the project will fail.
+You must have a strict intake form.
+You must have standard operating procedures (SOPs).
+Your team must know exactly what "done" looks like before they write a single line of code.
+If the team builds the wrong thing, it is YOUR fault for poor scoping.

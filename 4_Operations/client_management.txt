@@ -1,0 +1,5 @@
+CLIENT MANAGEMENT
+Set a communication policy on Day 1.
+No WhatsApp. No random phone calls.
+All communication goes through a shared Slack channel or project management tool (Monday/ClickUp).
+Update them before they ask for an update. An uninformed client is a panicking client.

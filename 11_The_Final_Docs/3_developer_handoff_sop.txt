@@ -1,0 +1,17 @@
+THE DEVELOPER HANDOFF (SOP)
+
+Do not forward client emails to your developers. 
+You are the Solutions Architect. You must translate client wishes into technical scope.
+
+Create a ClickUp/Monday task with this exact structure:
+
+**1. Project Summary:** (What are we building and why?)
+**2. Tech Stack:** (React, Node, GoHighLevel API, etc.)
+**3. The Deliverables (The Checklist):**
+   - [ ] Implement Zapier webhook from Typeform to CRM.
+   - [ ] Build custom dashboard UI matching Figma file attached.
+   - [ ] Write API script to sync records every 15 minutes.
+**4. Definition of Done:** (How do we test it to know it works?)
+**5. Deadline:** (Date and Time).
+
+If you give your developers this document, they will build exactly what you want. If you just say "build a dashboard," they will guess, and you will lose the client.

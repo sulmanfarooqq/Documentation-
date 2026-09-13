@@ -1,0 +1,12 @@
+THE CLIENT INTAKE FORM (SOP)
+
+You closed the deal. DO NOT let the developers start coding yet. 
+Send this to the client via Typeform or Google Forms. If they don't fill it out, the project does not start.
+
+1. What is the single primary goal of this project? (e.g., Increase sales by 10%, cut manual data entry)
+2. Who is the dedicated point of contact for approvals?
+3. List every single software/CRM you currently use that needs to be integrated.
+4. Do you have API keys and admin access ready for those softwares?
+5. What does a "failed project" look like to you? (So we know exactly what to avoid).
+
+If you don't get these answers in writing, the client will change their mind halfway through and blame you.
