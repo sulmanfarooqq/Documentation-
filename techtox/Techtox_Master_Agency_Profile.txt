@@ -1,0 +1,41 @@
+﻿# TECHTOX MASTER AGENCY PROFILE
+
+## THE ELEVATOR PITCH
+"We replace fragmented agency models with a unified growth engine. We architect your custom software, build your brand identity, drive your marketing, and automate your operations with AI."
+
+## THE FOUR DEPARTMENTS
+
+### 01. DEVELOPMENT (The Foundation)
+We architect scalable custom software, e-commerce platforms, and robust web applications.
+- Custom Web Applications
+- WordPress CMS Solutions
+- Shopify E-commerce Builds
+- Cross-platform Desktop Apps
+
+### 02. CREATIVE (The Authority)
+Elite UI/UX prototyping and digital branding to establish absolute market authority.
+- Brand Identity & Graphic Design
+- UI/UX Web & Mobile Prototyping
+- 3D & VFX Rendering
+- Video Editing & Motion Graphics
+
+### 03. MARKETING (The Fuel)
+Data-driven traffic, B2B lead generation, and omnichannel growth.
+- B2B Outbound Lead Generation
+- SEO Strategy & Execution
+- Paid Traffic & Performance Marketing
+- Social Media & Content Distribution
+
+### 04. AUTOMATION (The Engine)
+Autonomous AI agents and seamless API workflow integrations to eliminate manual labor.
+- Custom AI Agent Development
+- API Integrations & Webhooks
+- CRM Automation (HubSpot/Salesforce)
+- Internal SOP & Workflow Automation
+
+## THE PRICING MODEL
+- Retainers: High-ticket monthly retainers for ongoing marketing and automation.
+- Project-Based: Fixed fees for bespoke web applications and branding overhauls.
+
+---
+
