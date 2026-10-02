@@ -1,13 +1,59 @@
-THE 8-FIGURE SOLO SCHEDULE
-Stop playing business. Stop spending 3 hours tweaking your website button colors.
-Here is your exact daily schedule to hit $1M:
+# DAILY OPERATING SCHEDULE — ZERO TO FIRST $1,000
 
-08:00 - 09:00: Deep Work (Review dev team progress, QA the items they built)
-09:00 - 11:00: Outbound Sales (Send 100 Cold Emails/LinkedIn DMs. No exceptions.)
-11:00 - 12:00: Content Creation (Write 1 case study or LinkedIn post. Schedule it.)
-12:00 - 13:00: Break / Walk
-13:00 - 16:00: Sales Calls & Client Meetings (Pitching, closing, onboarding)
-16:00 - 17:00: The Handoff (Write exact, brutal SOPs and scope documents for your dev team)
-17:00 - 17:30: Inbox Zero (Clear all emails, Slack messages. Do not leave clients hanging)
+This schedule exists to stop consumption from replacing execution.
 
-If you aren't doing outbound for 2 hours a day, you don't have a business. You have a hobby.
+## 08:00–08:30 — Pipeline review
+
+Check:
+- new replies
+- follow-ups due
+- calls
+- active delivery blockers
+
+## 08:30–11:00 — Prospecting + outreach
+
+- research 30 qualified prospects
+- send 20 personalized messages
+- send 10 follow-ups
+- log every action
+
+## 11:00–12:00 — Sales/proof
+
+- improve one demo
+- prepare discovery questions
+- record a short teardown
+- send proposals to qualified prospects
+
+## 12:00–13:00 — Break
+
+## 13:00–16:00 — Delivery
+
+If no client work exists:
+build one reusable demo directly tied to the current offer.
+
+## 16:00–17:00 — Calls + follow-ups
+
+Do not schedule calls during your main outbound block unless necessary.
+
+## 17:00–17:30 — CRM/admin
+
+Update pipeline and next action for every active prospect.
+
+## 17:30 — Stop
+
+Do not turn "more research" into another form of procrastination.
+
+## Daily scoreboard
+
+Prospects researched: __
+First contacts: __
+Follow-ups: __
+Replies: __
+Calls booked: __
+Calls held: __
+Proposals: __
+Deals won: __
+Cash collected: __
+Delivery tasks completed: __
+
+A day with zero outreach is not a business day during Stage 0.
