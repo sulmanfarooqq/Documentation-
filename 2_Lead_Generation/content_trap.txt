@@ -1,5 +1,32 @@
-THE CONTENT TRAP
-Do not waste time posting 5 times a day on Instagram. You sell enterprise AI and automation.
-Your buyers are on LinkedIn or in their email inbox.
-Write case studies. Document EXACTLY how you saved a client 40 hours a week or /month.
-Data wins arguments. Proof gets meetings. Fluff gets ignored.
+# CONTENT: SUPPORT SALES, DO NOT REPLACE SALES
+
+Content is secondary until Flow Vello has paying customers.
+
+## Priority order
+
+1. Direct outreach
+2. Follow-up
+3. Discovery calls
+4. Delivery and proof
+5. Case studies
+6. Content distribution
+
+Do not spend three hours making generic "Top 5 AI trends" posts.
+
+## Useful content
+
+Publish proof-oriented material:
+- teardown of a real workflow problem
+- short before/after automation
+- architecture diagram
+- demo of a small automation
+- lesson from a real client delivery
+- quantified result when the number is verified
+
+Never invent client results. If it is a demo, label it as a demo.
+
+## Minimum cadence
+
+2 useful posts/week is enough during Stage 1.
+
+Content must support an offer you are actively selling. It is not a substitute for prospecting.
