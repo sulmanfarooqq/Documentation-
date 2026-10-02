@@ -32,6 +32,60 @@ Examples:
 Target first-project price: **$150–$500**.
 After proof: **$500–$1,000+**.
 
+## Agency workflow UML
+
+The complete operating workflow is:
+
+```mermaid
+flowchart LR
+    A[Target Buyer] --> B[Research Pain]
+    B --> C[Personalized Outreach]
+    C --> D{Reply?}
+    D -- No --> E[Follow Up]
+    E --> C
+    D -- Yes --> F[Discovery Call]
+    F --> G{Qualified?}
+    G -- No --> H[Nurture / Archive]
+    G -- Yes --> I[Scope + Price]
+    I --> J{Deposit Paid?}
+    J -- No --> K[Follow Up / Close]
+    K --> I
+    J -- Yes --> L[Onboarding + Access]
+    L --> M[Build]
+    M --> N[Internal QA]
+    N --> O[Client Demo]
+    O --> P{Accepted?}
+    P -- No --> Q[Fix Within Scope]
+    Q --> O
+    P -- Yes --> R[Handoff]
+    R --> S[Testimonial / Referral]
+    S --> A
+```
+
+### Revenue loop
+
+```mermaid
+flowchart LR
+    A[Prospects] --> B[Conversations]
+    B --> C[Paid Projects]
+    C --> D[Proof]
+    D --> E[Better Offer]
+    E --> A
+```
+
+### Hiring trigger
+
+```mermaid
+flowchart LR
+    A[More Work Sold] --> B{Founder Capacity Exceeded?}
+    B -- No --> C[Founder Delivers]
+    B -- Yes --> D[Define Repeatable Task]
+    D --> E[Hire Contractor]
+    E --> F[Founder QA]
+    F --> G[Document SOP]
+    G --> C
+```
+
 ## Daily non-negotiables
 
 - 30–50 targeted prospects researched
