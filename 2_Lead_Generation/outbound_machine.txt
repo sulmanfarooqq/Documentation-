@@ -1,9 +1,50 @@
-OUTBOUND MACHINE
-Do not wait for inbound. No one knows who you are.
-Pick ONE niche (e.g., B2B SaaS or Healthcare).
-Pick ONE channel (e.g., Cold Email or LinkedIn).
-Pick ONE offer (e.g., "We automate your lead routing so you stop losing deals").
-Send 100 highly personalized, brutal pain-point messages a day. 
-No fluff. No "I hope you are doing well." 
-Just: "I noticed [Problem]. We fix this by [Solution]. Worth a 10 min chat?"
-Do this every single day. Volume negates luck.
+# OUTBOUND MACHINE — STAGE 1
+
+Do not wait for inbound.
+
+## One target at a time
+
+For a 14-day sprint, choose:
+- one buyer type
+- one painful workflow
+- one offer
+- one primary channel
+
+Example offer:
+"We automate your new-lead flow so inquiries are captured, qualified, routed and followed up without manual copying."
+
+## Daily numbers
+
+Minimum:
+- 30 qualified prospects researched
+- 20 personalized first contacts
+- 10 follow-ups
+- 2 direct asks for a short call
+- every response logged
+
+Quality matters, but "personalized" does not mean writing a 500-word essay for every prospect.
+
+## Prospect selection
+
+Look for evidence:
+- contact forms
+- slow/manual booking
+- WhatsApp-heavy sales
+- multiple spreadsheets
+- disconnected CRM/tools
+- repetitive customer questions
+- obvious lead-response gaps
+
+## Outreach formula
+
+Observation -> business problem -> relevant outcome -> low-friction CTA.
+
+Do not claim savings or results you have not measured.
+
+## Follow-up
+
+Follow up several times with useful context, not "just checking in".
+
+Stop when they decline, ask you to stop, or the sequence reaches its limit.
+
+Outbound is a process. Random messages are not a process.
