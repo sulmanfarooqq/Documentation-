@@ -1,41 +1,52 @@
-﻿# TECHTOX MASTER AGENCY PROFILE
+# FLOW VELLO MASTER AGENCY PROFILE
 
-## THE ELEVATOR PITCH
-"We replace fragmented agency models with a unified growth engine. We architect your custom software, build your brand identity, drive your marketing, and automate your operations with AI."
+This file replaces the previous Techtox profile.
 
-## THE FOUR DEPARTMENTS
+## Positioning
 
-### 01. DEVELOPMENT (The Foundation)
-We architect scalable custom software, e-commerce platforms, and robust web applications.
-- Custom Web Applications
-- WordPress CMS Solutions
-- Shopify E-commerce Builds
-- Cross-platform Desktop Apps
+Flow Vello is a business automation and software partner focused on making operations faster, more connected and easier to manage.
 
-### 02. CREATIVE (The Authority)
-Elite UI/UX prototyping and digital branding to establish absolute market authority.
-- Brand Identity & Graphic Design
-- UI/UX Web & Mobile Prototyping
-- 3D & VFX Rendering
-- Video Editing & Motion Graphics
+## Core services
 
-### 03. MARKETING (The Fuel)
-Data-driven traffic, B2B lead generation, and omnichannel growth.
-- B2B Outbound Lead Generation
-- SEO Strategy & Execution
-- Paid Traffic & Performance Marketing
-- Social Media & Content Distribution
+### 01 — Workflow Automation
+Connect tools and automate multi-step business processes.
 
-### 04. AUTOMATION (The Engine)
-Autonomous AI agents and seamless API workflow integrations to eliminate manual labor.
-- Custom AI Agent Development
-- API Integrations & Webhooks
-- CRM Automation (HubSpot/Salesforce)
-- Internal SOP & Workflow Automation
+### 02 — WhatsApp & Messaging Automation
+Capture inquiries, send updates, qualify leads and route conversations.
 
-## THE PRICING MODEL
-- Retainers: High-ticket monthly retainers for ongoing marketing and automation.
-- Project-Based: Fixed fees for bespoke web applications and branding overhauls.
+### 03 — AI Customer Support
+Automate common customer questions with controlled escalation to humans.
 
----
+### 04 — Custom AI Agents
+Build agents that use approved business data/tools to perform defined operational tasks.
 
+### 05 — Sales Automation
+Automate lead capture, qualification, follow-up and CRM updates.
+
+### 06 — Executive Dashboards
+Surface useful operational metrics in one place.
+
+### 07 — Custom Software Development
+Build internal tools and software when existing platforms cannot solve the workflow cleanly.
+
+## Commercial model
+
+- Fixed-scope implementation
+- Small automation sprints
+- Larger custom systems
+- Ongoing support/optimization after proof
+
+## Sales principle
+
+Start with a painful workflow, not the full service catalog.
+
+## Delivery principle
+
+Every project has:
+scope -> access -> implementation -> QA -> client acceptance -> handoff -> documentation.
+
+## Growth principle
+
+Revenue comes before hiring.
+Proof comes before aggressive pricing.
+Repeatability comes before scale.
