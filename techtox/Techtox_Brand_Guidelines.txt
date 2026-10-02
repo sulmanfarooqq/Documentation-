@@ -1,23 +1,27 @@
-﻿# TECHTOX BRAND GUIDELINES
+# FLOW VELLO BRAND/COMMUNICATION NOTE
 
-## 1. CORE IDENTITY
-- **Company Name:** Techtox
-- **Tagline:** One Unified Growth Engine.
-- **Positioning:** An elite, full-service digital agency bridging the gap between custom software, creative branding, and autonomous AI operations.
+This file previously described Techtox. That creates brand confusion.
 
-## 2. COLOR PALETTE
-You have three colors. Stop overcomplicating it.
-- **Techtox Red:** #FF2E3E (Used for accents, buttons, hovers, and the logo mark).
-- **Pure Black:** #000000 (Used for backgrounds, footer, and deep contrast elements).
-- **Pure White:** #FFFFFF (Used for typography on dark backgrounds and card backgrounds).
+## Canonical brand
 
-## 3. TYPOGRAPHY
-- **Display Font:** Teko (Used for massive, brutalist headers).
-- **Body Font:** Rubik (Used for highly legible body copy and UI elements).
+**Flow Vello**
 
-## 4. DESIGN PHILOSOPHY
-- Brutalist, high-contrast, minimalist.
-- Generous padding and spacing.
-- No rounded, soft, friendly elements. Techtox is a lethal, enterprise-grade weapon.
+## Communication
 
----
+Clear, technical when useful, business-first always.
+
+Avoid:
+- fake "enterprise" claims
+- exaggerated ROI
+- invented client results
+- aggressive language toward prospects
+- jargon without a business reason
+
+## Visual principle
+
+The website can be distinctive, but sales documentation should prioritize clarity:
+Problem -> Process -> Solution -> Proof -> Next step.
+
+## Naming rule
+
+Do not use Techtox in Flow Vello proposals, outreach, onboarding or client-facing documentation unless a specific legal/business reason requires it.
