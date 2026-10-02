@@ -1,5 +1,29 @@
-CLIENT MANAGEMENT
-Set a communication policy on Day 1.
-No WhatsApp. No random phone calls.
-All communication goes through a shared Slack channel or project management tool (Monday/ClickUp).
-Update them before they ask for an update. An uninformed client is a panicking client.
+# CLIENT MANAGEMENT — SIMPLE VERSION
+
+At Stage 1, complexity is the enemy.
+
+## One source of truth
+
+Use one project board and one client communication channel.
+
+For each project track:
+- Scope
+- Tasks
+- Owner
+- Deadline
+- Status
+- Blockers
+- Client approvals
+- Links/access
+
+Email is acceptable for formal communication. If a client uses WhatsApp, summarize important decisions in the project record so nothing is lost.
+
+## Update rhythm
+
+Send a short update at least twice per week:
+- completed
+- next
+- blocked
+- client action needed
+
+Never make the client chase you for status.

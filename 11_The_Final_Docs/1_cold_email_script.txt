@@ -1,17 +1,32 @@
-THE ONLY COLD EMAIL SCRIPT YOU NEED
+# COLD OUTREACH SCRIPT
 
-Stop sending 5-paragraph emails talking about yourself. Nobody cares about Flow Vello. 
-They only care about their own problems.
+Use this as a structure, not a spam template.
 
-[SUBJECT LINE]: Quick question about your lead routing
+## Subject
 
-Hi [First Name],
+Quick idea for [Company]
 
-I noticed [Company Name] is currently driving traffic to a generic contact form. Most of our [Niche] clients found they were losing 30% of their inbound leads because they couldn't respond within 5 minutes.
+## Message
 
-We build automated AI routing systems that instantly qualify inbound leads and push them directly to your CRM. 
+Hi [Name],
 
-Are you currently solving this, or would you be open to seeing a 2-minute video on how we did this for another agency?
+I noticed [specific observation about their workflow].
 
-Best,
-Sulman
+That usually creates [specific operational problem] when [context].
+
+I build small automation systems that can [specific outcome: capture/routing/follow-up/reporting] without replacing the tools you already use.
+
+I made a short example for [Company/niche]. Want me to send it?
+
+— Sulman
+Flow Vello
+
+## If they say yes
+
+Send the demo, then ask:
+
+"Does this match the problem, or is the bigger bottleneck somewhere else?"
+
+Do not fabricate "we helped X clients" if you have not.
+
+The message should prove that you looked at their business. Mass personalization with fake observations is still spam.

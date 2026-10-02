@@ -1,7 +1,52 @@
-HOW TO HIT 
-To hit /year, you need ~/month.
-That is 8 clients paying /mo, or 16 clients paying /mo.
-You cannot handle 16 active projects by yourself if you are the only Project Manager and Salesperson.
-The moment you hit /mo, you must hire an Account/Project Manager to talk to clients. 
-You must extract yourself from fulfillment completely.
-If you don't, you will cap out at /mo, burn out, and your agency will collapse.
+# SCALING PATH — DO NOT SKIP STAGES
+
+This file is deliberately less glamorous than a "million-dollar roadmap".
+
+## Stage 0 — $0
+
+Goal: first paid project.
+
+Founder does sales + solution design + most delivery.
+
+Target offer price: $150–$500.
+
+## Stage 1 — $1–$3k cumulative revenue
+
+Goal: repeat one offer.
+
+Standardize:
+- outreach
+- discovery
+- proposal
+- onboarding
+- build
+- QA
+- handoff
+- testimonial request
+
+Raise prices only when delivery is reliable.
+
+## Stage 2 — $3–$10k/month
+
+Goal: remove yourself from low-value execution.
+
+Hire contractors for specific bottlenecks, not vague "developers".
+
+Use fixed scopes and acceptance tests.
+
+## Stage 3 — $10k+/month
+
+Add project/account coordination when client communication and delivery coordination consume too much founder time.
+
+Build a bench of specialists.
+
+## Hiring trigger
+
+Hire when:
+- work is already sold
+- the task is repeatable
+- you know how to QA it
+- contractor cost fits the project margin
+- hiring increases capacity rather than hiding a sales problem
+
+Revenue targets are not guarantees. The path depends on offer quality, market, conversion, delivery capacity and retention.

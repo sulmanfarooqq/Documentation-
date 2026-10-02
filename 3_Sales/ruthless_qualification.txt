@@ -1,7 +1,33 @@
-RUTHLESS QUALIFICATION
-You are solo. Your time is your only asset. Do not waste it on broke clients.
-If they don't have budget, disqualify them immediately.
-Ask hard questions:
-- "What is this problem costing you right now?"
-- "Do you have the budget to deploy a + solution this month?"
-If they flinch, walk away. You need 5 clients paying , not 50 clients paying . Low-ticket clients complain the most and eat your time.
+# QUALIFICATION
+
+Being "ruthless" does not mean insulting prospects or rejecting anyone who cannot pay a huge retainer.
+
+It means protecting your limited time.
+
+## Qualify for
+
+- painful problem
+- clear owner
+- reachable decision-maker
+- urgency
+- access to required systems
+- realistic scope
+- budget appropriate to the project
+
+## Disqualify or pause when
+
+- they want unlimited work
+- nobody owns approvals
+- requirements change every conversation
+- access cannot be provided
+- the deadline is impossible
+- they expect free production work
+- they refuse clear payment terms
+
+## Important
+
+Do not invent an ROI number.
+
+If the prospect says a manual process costs 20 hours/month, document that as their estimate. Validate it during discovery or delivery when possible.
+
+Your first $1,000 can come from several small projects. You do not need five giant clients immediately.

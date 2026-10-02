@@ -1,12 +1,38 @@
-THE CLIENT INTAKE FORM (SOP)
+# CLIENT ONBOARDING FORM
 
-You closed the deal. DO NOT let the developers start coding yet. 
-Send this to the client via Typeform or Google Forms. If they don't fill it out, the project does not start.
+Project starts only after payment, signed scope/approval, and required access are available.
 
-1. What is the single primary goal of this project? (e.g., Increase sales by 10%, cut manual data entry)
-2. Who is the dedicated point of contact for approvals?
-3. List every single software/CRM you currently use that needs to be integrated.
-4. Do you have API keys and admin access ready for those softwares?
-5. What does a "failed project" look like to you? (So we know exactly what to avoid).
+## Business
 
-If you don't get these answers in writing, the client will change their mind halfway through and blame you.
+1. Company name
+2. Primary contact
+3. Decision-maker/approver
+4. Business objective
+5. Current process
+6. What is failing or taking too much time?
+7. What does success look like?
+8. Deadline and reason for deadline
+
+## Systems
+
+9. Tools involved
+10. Required integrations
+11. Admin/API access available?
+12. Test/sandbox environment available?
+13. Data sources and formats
+
+## Delivery
+
+14. Exact deliverables
+15. Explicit exclusions
+16. Who will test/approve?
+17. What should happen when automation fails?
+18. Preferred communication channel
+
+## Security
+
+19. What data is sensitive?
+20. What access can be limited to least privilege?
+21. Who can revoke access after delivery?
+
+Never ask a client to send secrets in plain chat. Use the client's approved secure method for credentials.

@@ -1,8 +1,34 @@
-THE SOLO DELUSION
-You think you just "get orders" and the team "builds items." 
-This is how agencies fail. 
-Clients do not buy "items." They buy solutions, and they demand communication, revisions, hand-holding, and strategy.
-If you are the only one talking to the client, YOU are the bottleneck.
-At /month, you are a freelancer with helpers.
-At /month (.2M/yr), you will drown if you are the sole project manager.
-Your actual job isn't just sales. Your job is SYSTEMS. You must build a machine where the team can operate without you translating every single client request.
+# THE SOLO AGENCY REALITY
+
+You do not have an agency because you have a website, a GitHub account, or a list of services.
+
+At zero revenue, you are the founder, salesperson, solutions architect, project manager, and primary delivery person.
+
+That is Stage 1, not the permanent structure.
+
+## The real bottleneck
+
+Your problem is not lack of tools. It is lack of repeated market-facing execution.
+
+If you spend hours watching videos, changing your site, researching niches, or designing systems without contacting buyers, revenue remains $0.
+
+## What clients actually buy
+
+They buy a business problem being removed:
+- fewer manual steps
+- faster lead response
+- fewer missed inquiries
+- cleaner CRM data
+- faster reporting
+- lower administrative workload
+- better customer response
+
+They do not buy n8n, MCP, React, APIs, or AI by themselves.
+
+## Stage 1 rule
+
+Do not hire because hiring feels like progress.
+
+Hire only when signed work exceeds your personal delivery capacity and contractor cost can be covered by already-sold work.
+
+Your first job is not to look like a large agency. Your first job is to create a repeatable path from stranger -> payment -> result.

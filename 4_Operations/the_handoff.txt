@@ -1,7 +1,28 @@
-THE HANDOFF (YOUR BIGGEST RISK)
-You closed the deal. Now you hand it to your team.
-If you just forward an email, the project will fail.
-You must have a strict intake form.
-You must have standard operating procedures (SOPs).
-Your team must know exactly what "done" looks like before they write a single line of code.
-If the team builds the wrong thing, it is YOUR fault for poor scoping.
+# CLIENT -> DELIVERY HANDOFF
+
+The project does not enter development until the scope is clear.
+
+## Required handoff
+
+1. Business problem
+2. Desired outcome
+3. Current workflow
+4. Future workflow
+5. Systems involved
+6. Required access
+7. Exact deliverables
+8. Explicit exclusions
+9. Definition of Done
+10. Deadline
+11. Client approver
+12. Risks/unknowns
+
+## Rule
+
+Client language must be translated into testable work.
+
+"Build an AI agent" is not a specification.
+
+"Agent receives website inquiry, extracts name/service/date, checks approved knowledge, asks one missing question, creates CRM lead, and escalates uncertain cases to a human" is a specification.
+
+If the requirement cannot be tested, it is not finished.

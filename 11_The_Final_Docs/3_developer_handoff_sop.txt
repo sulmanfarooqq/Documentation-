@@ -1,17 +1,49 @@
-THE DEVELOPER HANDOFF (SOP)
+# DEVELOPER HANDOFF SOP
 
-Do not forward client emails to your developers. 
-You are the Solutions Architect. You must translate client wishes into technical scope.
+Use this when a contractor is involved.
 
-Create a ClickUp/Monday task with this exact structure:
+## 1. Business objective
 
-**1. Project Summary:** (What are we building and why?)
-**2. Tech Stack:** (React, Node, GoHighLevel API, etc.)
-**3. The Deliverables (The Checklist):**
-   - [ ] Implement Zapier webhook from Typeform to CRM.
-   - [ ] Build custom dashboard UI matching Figma file attached.
-   - [ ] Write API script to sync records every 15 minutes.
-**4. Definition of Done:** (How do we test it to know it works?)
-**5. Deadline:** (Date and Time).
+What business problem is being solved?
 
-If you give your developers this document, they will build exactly what you want. If you just say "build a dashboard," they will guess, and you will lose the client.
+## 2. User/system flow
+
+Describe the exact trigger -> processing -> action -> exception path.
+
+## 3. Deliverables
+
+Checklist of concrete outputs.
+
+## 4. Technical context
+
+Approved stack, APIs, repositories, environments and constraints.
+
+## 5. Inputs
+
+What data enters the system? Example payloads where possible.
+
+## 6. Outputs
+
+What should be created, updated, sent or displayed?
+
+## 7. Edge cases
+
+What happens when data is missing, an API fails, a duplicate arrives, or an AI response is uncertain?
+
+## 8. Definition of Done
+
+Specific tests that must pass.
+
+## 9. Deadline
+
+Internal deadline must be earlier than the client commitment.
+
+## 10. Handoff package
+
+Repository, setup instructions, environment variables template, test cases, known limitations and rollback instructions.
+
+## Contractor rule
+
+Never give a contractor vague authority over the whole client relationship.
+
+They receive a scoped task. You own the client promise and final QA.

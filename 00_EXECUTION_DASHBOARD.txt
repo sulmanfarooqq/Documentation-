@@ -1,0 +1,57 @@
+# FLOW VELLO — DAILY EXECUTION DASHBOARD
+
+Use this file every working day.
+
+## 14-DAY TARGET
+
+Buyer type: ____________________
+Painful workflow: ______________
+Offer: _________________________
+Price: $________________________
+Primary channel: _______________
+
+## TODAY
+
+Prospects researched: __ / 30
+First contacts: __ / 20
+Follow-ups: __ / 10
+Replies: __
+Qualified: __
+Calls booked: __
+Calls held: __
+Proposals sent: __
+Deals won: __
+Cash collected: $____
+Delivery tasks completed: __
+
+## PIPELINE
+
+Lead:
+Contacted:
+Replied:
+Qualified:
+Call:
+Proposal:
+Won:
+Delivery:
+QA:
+Handoff:
+
+## RULES
+
+- Do not change niche because one day was quiet.
+- Do not change the offer without evidence.
+- Do not buy another tool because outreach feels uncomfortable.
+- Do not count "research" as outreach.
+- Do not count sent messages as sales.
+- Do not count revenue until money is actually received.
+
+## END-OF-DAY QUESTIONS
+
+1. What did I actually ship?
+2. How many real buyers did I contact?
+3. Where did prospects stop responding?
+4. What objection appeared repeatedly?
+5. What will I change tomorrow?
+
+Run this for 14 days before making major strategic changes, unless the offer is clearly impossible, unethical, technically infeasible, or contradicted by direct market evidence.
