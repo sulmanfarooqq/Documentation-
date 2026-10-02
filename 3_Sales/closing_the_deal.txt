@@ -1,6 +1,46 @@
-CLOSING THE DEAL
-Stop sending "proposals" that list features. 
-Send a "Plan of Action" that lists OUTCOMES.
-They don't care about the tech stack. They care about the ROI.
-Tie your price to the money you will save them or make them.
-Require 50% upfront. No exceptions. If they won't pay upfront, they aren't a real client.
+# CLOSING A SMALL PROJECT
+
+Your first objective is not a $10,000 contract. It is a paid project that can be delivered quickly and turned into proof.
+
+## Discovery
+
+Ask:
+1. What happens today?
+2. Where does the process break?
+3. How often does it happen?
+4. Who performs the manual work?
+5. What tools are involved?
+6. What happens when the process fails?
+7. What would a useful improvement look like?
+8. Who approves the work?
+9. What deadline matters?
+10. What budget range has been allocated?
+
+## Scope
+
+Write:
+- problem
+- current workflow
+- proposed workflow
+- exact deliverables
+- exclusions
+- client responsibilities
+- timeline
+- price
+- payment terms
+- acceptance/QA criteria
+
+## Payment
+
+For small projects, require an upfront deposit before production. A common structure is 50% upfront and 50% before final handoff.
+
+Use a payment method actually available to both parties.
+
+Never start substantial work based only on a promise to pay.
+
+## Close
+
+Do not pressure people. Make the decision easy:
+"Based on what you showed me, this is the smallest version I would build first. It is $X, takes Y days, and includes A/B/C. If that works, I will send the scope and payment details."
+
+A clean scope closes better than hype.
