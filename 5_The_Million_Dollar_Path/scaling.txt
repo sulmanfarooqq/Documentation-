@@ -1,52 +1,71 @@
-# SCALING PATH — DO NOT SKIP STAGES
+# SCALING — THREE ENGINEERS
 
-This file is deliberately less glamorous than a "million-dollar roadmap".
+Do not confuse team size with business maturity.
 
-## Stage 0 — $0
+Three engineers can support more delivery capacity than one person, but the company still needs demand.
 
-Goal: first paid project.
+## Stage 0 — Prove demand
 
-Founder does sales + solution design + most delivery.
+Goal:
+- first paid projects
+- one repeatable offer
+- one reliable sales channel
+- proof
 
-Target offer price: $150–$500.
+Team:
+A = revenue + solutions
+B = delivery
+C = product/QA
 
-## Stage 1 — $1–$3k cumulative revenue
+Everyone can help. One owner per function.
 
-Goal: repeat one offer.
+## Stage 1 — Repeat
 
-Standardize:
-- outreach
-- discovery
-- proposal
-- onboarding
-- build
-- QA
-- handoff
-- testimonial request
+Once an offer sells repeatedly:
+- standardize discovery
+- standardize proposal
+- standardize onboarding
+- standardize build
+- standardize QA
+- standardize handoff
+- collect proof
 
-Raise prices only when delivery is reliable.
+## Stage 2 — Increase capacity
 
-## Stage 2 — $3–$10k/month
+Only after sustained sold work:
+- delegate repeatable implementation,
+- automate internal operations,
+- add contractors/specialists,
+- protect A's sales time.
 
-Goal: remove yourself from low-value execution.
+## Stage 3 — Build a company
 
-Hire contractors for specific bottlenecks, not vague "developers".
+Possible structure:
+- commercial/client function
+- delivery function
+- technical/product function
+- project/account coordination
+- specialist bench
 
-Use fixed scopes and acceptance tests.
-
-## Stage 3 — $10k+/month
-
-Add project/account coordination when client communication and delivery coordination consume too much founder time.
-
-Build a bench of specialists.
+Do not build this org chart before the revenue requires it.
 
 ## Hiring trigger
 
 Hire when:
-- work is already sold
-- the task is repeatable
-- you know how to QA it
-- contractor cost fits the project margin
-- hiring increases capacity rather than hiding a sales problem
+1. work is already sold,
+2. bottleneck is identified,
+3. task is repeatable,
+4. Definition of Done exists,
+5. QA exists,
+6. unit economics support the hire.
 
-Revenue targets are not guarantees. The path depends on offer quality, market, conversion, delivery capacity and retention.
+Never hire to feel bigger.
+
+## Revenue reality
+
+A target such as "$10k/month" is a planning target, not evidence.
+
+Track:
+cash collected, gross margin, delivery hours, sales activity, pipeline conversion, repeat business, and client concentration.
+
+Growth that creates chaos is not operational maturity.
