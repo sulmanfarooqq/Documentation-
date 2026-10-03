@@ -1,28 +1,42 @@
-# READ THIS LAST
+# READ THIS WHEN THREE ENGINEERS START HIDING IN WORK
 
-The documentation is not the work.
+Three engineers can hide procrastination inside technical work.
 
-You can read every file and still make $0.
+Examples:
+- rebuilding the website
+- creating another framework
+- comparing AI models
+- creating 50 demos
+- reorganizing GitHub
+- polishing branding
 
-The test is simple:
+Ask:
 
-**Can you create qualified conversations with real buyers and turn one into a paid, scoped project?**
+> Does this action increase qualified demand, paid delivery, or verified proof this week?
 
-If not, more strategy is probably avoidance.
+If no, stop.
 
-## Your next 24 hours
+## A
+- identify 20 prospects
+- send 10 first contacts
+- send 10 follow-ups
+- run calls/proposals
+- update pipeline
 
-1. Choose one buyer type.
-2. Choose one workflow problem.
-3. Build one 2–5 minute demo.
-4. Create a list of 30 qualified prospects.
-5. Send 20 personalized messages.
-6. Send 10 follow-ups to older prospects if you have them.
-7. Ask for short discovery calls.
-8. Log every result.
-9. Improve the message from evidence, not feelings.
-10. Repeat tomorrow.
+## B
+- select the highest-value committed delivery outcome
+- define the smallest build
+- implement
+- test
+- ship
 
-Do not wait for confidence.
+## C
+- define acceptance checks
+- QA
+- create proof/demo
+- document
+- remove one recurring delivery bottleneck
 
-Do not promise that you will get a client in a specific number of days. Control the inputs; learn from the outputs.
+The team does not need another strategy document.
+
+It needs evidence.

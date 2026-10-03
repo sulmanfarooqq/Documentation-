@@ -1,49 +1,35 @@
-# DEVELOPER HANDOFF SOP
+# DEVELOPER HANDOFF SOP — INTERNAL
 
-Use this when a contractor is involved.
+A sale becomes a build only after qualification and agreed payment terms.
 
-## 1. Business objective
+## A -> B/C
+A provides:
+- business objective
+- exact workflow
+- approved deliverables
+- exclusions
+- acceptance criteria
+- deadline
+- client dependencies
+- approved access
+- known risks
 
-What business problem is being solved?
+## B owns
+- architecture
+- implementation plan
+- integration
+- deployment
 
-## 2. User/system flow
+## C owns
+- test plan
+- acceptance checks
+- QA
+- release evidence
+- documentation
 
-Describe the exact trigger -> processing -> action -> exception path.
+## Review rule
+No person should be the only reviewer of their own critical production change.
 
-## 3. Deliverables
+If outside contractors are later added, they receive bounded tasks with a Definition of Done and evidence requirements.
 
-Checklist of concrete outputs.
-
-## 4. Technical context
-
-Approved stack, APIs, repositories, environments and constraints.
-
-## 5. Inputs
-
-What data enters the system? Example payloads where possible.
-
-## 6. Outputs
-
-What should be created, updated, sent or displayed?
-
-## 7. Edge cases
-
-What happens when data is missing, an API fails, a duplicate arrives, or an AI response is uncertain?
-
-## 8. Definition of Done
-
-Specific tests that must pass.
-
-## 9. Deadline
-
-Internal deadline must be earlier than the client commitment.
-
-## 10. Handoff package
-
-Repository, setup instructions, environment variables template, test cases, known limitations and rollback instructions.
-
-## Contractor rule
-
-Never give a contractor vague authority over the whole client relationship.
-
-They receive a scoped task. You own the client promise and final QA.
+The three-person team owns the client promise and final QA.

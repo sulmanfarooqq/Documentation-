@@ -1,38 +1,42 @@
-# CLIENT ONBOARDING FORM
+# CLIENT ONBOARDING — THREE-PERSON TEAM
 
-Project starts only after payment, signed scope/approval, and required access are available.
+## Commercial
+- company
+- contact
+- decision maker
+- objective
+- deadline
+- payment status
+- scope
+- exclusions
 
-## Business
+## Current process
+- trigger
+- people involved
+- tools
+- manual steps
+- failure points
+- volume/frequency
 
-1. Company name
-2. Primary contact
-3. Decision-maker/approver
-4. Business objective
-5. Current process
-6. What is failing or taking too much time?
-7. What does success look like?
-8. Deadline and reason for deadline
-
-## Systems
-
-9. Tools involved
-10. Required integrations
-11. Admin/API access available?
-12. Test/sandbox environment available?
-13. Data sources and formats
+## Technical
+- integrations
+- access method
+- environments
+- data
+- permissions
+- dependencies
 
 ## Delivery
+- milestones
+- Definition of Done
+- tester
+- approver
+- communication channel
+- support boundary
 
-14. Exact deliverables
-15. Explicit exclusions
-16. Who will test/approve?
-17. What should happen when automation fails?
-18. Preferred communication channel
+## Ownership
+A = client relationship + scope
+B = architecture + implementation
+C = QA + release evidence
 
-## Security
-
-19. What data is sensitive?
-20. What access can be limited to least privilege?
-21. Who can revoke access after delivery?
-
-Never ask a client to send secrets in plain chat. Use the client's approved secure method for credentials.
+Never request passwords/secrets in plain chat.

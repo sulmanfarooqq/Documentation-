@@ -1,32 +1,24 @@
-# COLD OUTREACH SCRIPT
+# COLD OUTREACH — TEAM VERSION
 
-Use this as a structure, not a spam template.
-
-## Subject
-
-Quick idea for [Company]
-
-## Message
+Subject: Quick idea for [Company]
 
 Hi [Name],
 
-I noticed [specific observation about their workflow].
+I noticed [specific observation].
 
-That usually creates [specific operational problem] when [context].
+That can create [specific operational problem] when [context].
 
-I build small automation systems that can [specific outcome: capture/routing/follow-up/reporting] without replacing the tools you already use.
+We build small workflow/automation systems that can improve [specific process] without forcing a full platform replacement.
 
-I made a short example for [Company/niche]. Want me to send it?
+I can send a short example of what this could look like for [Company].
 
-— Sulman
+Worth sending?
+
+— [A Name]
 Flow Vello
 
-## If they say yes
+A owns sending.
 
-Send the demo, then ask:
+B/C can provide technical insight, but outreach does not become a three-person committee.
 
-"Does this match the problem, or is the bigger bottleneck somewhere else?"
-
-Do not fabricate "we helped X clients" if you have not.
-
-The message should prove that you looked at their business. Mass personalization with fake observations is still spam.
+Never fabricate personalization, results, testimonials, or case studies.
