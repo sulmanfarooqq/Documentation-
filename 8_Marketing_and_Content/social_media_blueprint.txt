@@ -1,38 +1,35 @@
-# CONTENT BLUEPRINT
+# MARKETING — PROOF, NOT PERFORMANCE
 
-Content is evidence, not entertainment.
+Three engineers create enough technical material naturally.
 
-## Three formats
+The marketing job is to turn real work into trust.
 
-### 1. Teardown
+## Ownership
 
-Show a real business workflow and explain:
-- current friction
-- automation opportunity
-- architecture
-- expected operational effect
+A: commercial narrative and distribution.
+B: technical demo/architecture evidence.
+C: editing, case-study structure, QA of claims.
 
-### 2. Build demo
+## Weekly
 
-Show a small working system:
-lead -> qualification -> CRM -> notification -> follow-up.
-
-### 3. Lesson from delivery
-
-After a real project:
-- what was broken
-- what changed
-- what failed
-- what you learned
-- verified result
-
-## Weekly minimum
-
-- 2 useful LinkedIn posts
-- 1 short demo/visual
+- 2 professional posts
+- 1 short technical/business demo
 - 1 portfolio/proof improvement
 
-Do not create content before completing the daily prospecting quota.
+## Content hierarchy
 
-Never publish private client data without permission.
-Never manufacture case studies.
+1. verified client result
+2. real before/after workflow
+3. real demo
+4. technical lesson tied to a business problem
+5. generic educational content
+
+Never invent:
+- revenue
+- lead percentages
+- client logos
+- testimonials
+- case studies
+- performance claims
+
+Content should support sales, not replace it.
