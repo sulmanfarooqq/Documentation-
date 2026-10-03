@@ -1,104 +1,167 @@
-# Flow Vello Agency OS — Zero to $1,000
+# Flow Vello Agency OS — 3-Person Engineering Team
 
-This repository is the operating system for running Flow Vello from zero revenue as a solo operator.
+## Reality first
 
-## Stage 1 objective
+Flow Vello is **three professional software engineers**, not a solo freelancer and not yet a mature agency.
 
-Get the first paying client, deliver a small measurable result, collect proof, repeat.
+That changes the operating system, but it does **not** remove the hardest problem: revenue.
 
-Do not build a large agency before you can sell and deliver one offer repeatedly.
+Three engineers can produce a lot of software and still make zero money if nobody consistently owns prospecting, conversations, proposals, collections, and client relationships.
 
-## Core services
+The company therefore runs on three accountable seats:
 
-1. Workflow Automation
-2. Custom AI Agents
-3. WhatsApp & Messaging Automation
-4. AI Customer Support
-5. Sales Automation
-6. Executive Dashboards
-7. Custom Software Development
+| Seat | Primary ownership | Secondary ownership |
+|---|---|---|
+| **A — Revenue & Solutions Lead** | prospecting, sales, discovery, proposals, client relationship | architecture, high-risk technical decisions |
+| **B — Delivery & Automation Lead** | implementation, integrations, automation, deployment | technical discovery, estimation |
+| **C — Product, QA & Systems Lead** | product/full-stack work, QA, documentation, internal systems | demos, delivery support, technical proof |
 
-## Stage 1 offer
+All three are engineers. **Only one person owns revenue every day.** The others support sales when useful, but nobody assumes "someone else is doing sales."
 
-Sell a small, fixed-scope automation sprint.
+## The operating rule
 
-Examples:
-- lead capture -> CRM -> notification
-- WhatsApp lead qualification -> calendar
-- missed inquiry -> instant follow-up
-- repetitive spreadsheet/reporting workflow -> automated system
-- simple internal AI assistant connected to approved business data
+> **Three people do not need three equal task lists. They need one company scoreboard and one owner for every outcome.**
 
-Target first-project price: **$150–$500**.
-After proof: **$500–$1,000+**.
+No shared ownership of critical outcomes.
 
-## Agency workflow UML
+Bad:
+- "We all handle sales."
+- "We all do development."
+- "We all manage clients."
 
-The complete operating workflow is:
+Good:
+- A owns pipeline.
+- B owns implementation.
+- C owns QA/release.
+- One named DRI owns every project decision.
 
-```mermaid
-flowchart LR
-    A[Target Buyer] --> B[Research Pain]
-    B --> C[Personalized Outreach]
-    C --> D{Reply?}
-    D -- No --> E[Follow Up]
-    E --> C
-    D -- Yes --> F[Discovery Call]
-    F --> G{Qualified?}
-    G -- No --> H[Nurture / Archive]
-    G -- Yes --> I[Scope + Price]
-    I --> J{Deposit Paid?}
-    J -- No --> K[Follow Up / Close]
-    K --> I
-    J -- Yes --> L[Onboarding + Access]
-    L --> M[Build]
-    M --> N[Internal QA]
-    N --> O[Client Demo]
-    O --> P{Accepted?}
-    P -- No --> Q[Fix Within Scope]
-    Q --> O
-    P -- Yes --> R[Handoff]
-    R --> S[Testimonial / Referral]
-    S --> A
-```
+## Company loop
 
-### Revenue loop
+**TARGET → OUTREACH → DISCOVERY → QUALIFY → SCOPE → DEPOSIT → BUILD → QA → DEMO → HANDOFF → PROOF → REFERRAL/REPEAT**
 
-```mermaid
-flowchart LR
-    A[Prospects] --> B[Conversations]
-    B --> C[Paid Projects]
-    C --> D[Proof]
-    D --> E[Better Offer]
-    E --> A
-```
+Revenue is the first gate. Delivery is the second. Proof is the compounding asset.
 
-### Hiring trigger
+## Stage 1 — First repeatable revenue
 
-```mermaid
-flowchart LR
-    A[More Work Sold] --> B{Founder Capacity Exceeded?}
-    B -- No --> C[Founder Delivers]
-    B -- Yes --> D[Define Repeatable Task]
-    D --> E[Hire Contractor]
-    E --> F[Founder QA]
-    F --> G[Document SOP]
-    G --> C
-```
+Do not behave like a 30-person company.
 
-## Daily non-negotiables
+Sell one painful workflow to one buyer type.
 
-- 30–50 targeted prospects researched
-- 20–30 personalized first contacts
-- 10 follow-ups
-- 1 sales/proof asset improved
-- 1 delivery block
-- CRM updated before stopping
+Use the existing niche/package library as a menu, not as 50 simultaneous businesses.
 
-No YouTube strategy binge. No endless website redesign. No learning a new tool unless a live client requires it.
+Initial commercial model:
+- small fixed-scope project: roughly $300–$1,000 when scope supports it
+- larger project only after a clear discovery and payment commitment
+- retainers only after a working system exists and recurring work is real
 
-## Operating loop
+These are operating ranges, not promises.
 
-PROSPECT -> DIAGNOSE -> OUTREACH -> DISCOVERY -> SCOPE -> DEPOSIT -> BUILD -> QA -> DEMO -> HANDOFF -> TESTIMONIAL/REFERRAL -> REPEAT
+## Weekly company scoreboard
 
-The documentation is useful only if it changes what gets done today.
+| Metric | Owner | Target |
+|---|---|---:|
+| Qualified prospects added | A | 50+ |
+| Personalized first contacts | A | 40+ |
+| Follow-ups | A | 30+ |
+| Sales calls | A | 3+ |
+| Proposals | A | based on qualified demand |
+| Cash collected | A | actual |
+| Active client milestones shipped | B | 100% on schedule |
+| QA pass rate | C | 100% before handoff |
+| Case-study/proof assets | C | 1+ when a result exists |
+| Blocked tasks >24h | A/B/C | 0 |
+
+Targets are activity controls, not guaranteed outcomes. Adjust after two weeks of real evidence.
+
+## Daily operating rhythm
+
+### 08:30–08:45 — Team stand-up
+Each person answers:
+1. What shipped yesterday?
+2. What ships today?
+3. What is blocked?
+4. What client/revenue risk exists?
+
+No storytelling.
+
+### 08:45–11:00 — Revenue + focused build
+- A: prospecting, outreach, follow-ups, calls
+- B: delivery deep work
+- C: delivery/QA/proof deep work
+
+### 11:00–11:20 — Sales/technical sync
+A brings objections, requirements, and qualified opportunities.
+B/C answer feasibility questions.
+No speculative building.
+
+### 11:20–13:00 — Delivery
+B/C build. A handles proposals, discovery, client communication, or architecture.
+
+### 14:00–16:30 — Delivery block
+All three work against committed milestones.
+
+### 16:30–17:00 — QA/review
+C runs acceptance checks; B fixes; A validates against client scope.
+
+### 17:00–17:20 — Pipeline/client update
+A updates pipeline.
+B updates delivery status.
+C updates QA/proof status.
+
+### 17:20–17:30 — Tomorrow's first actions
+Every person writes one physical next action.
+
+## Non-negotiables
+
+- No major build without a defined client problem.
+- No substantial unpaid implementation.
+- No proposal without qualification.
+- No delivery without acceptance criteria.
+- No client promise without an owner.
+- No production release without QA.
+- No new niche because the current niche was quiet for two days.
+- No new tool because execution feels uncomfortable.
+- No internal meeting that could be a two-line message.
+- No "we're busy" when the pipeline is empty.
+- No "we need more developers" when sales is the bottleneck.
+
+## The brutal test
+
+If the team spends a full week coding but creates no qualified conversations, proposals, or cash, the team did not have a productive agency week.
+
+It had a productive engineering week.
+
+Those are not the same thing.
+
+## Scaling rule
+
+Do not hire because three engineers feel overloaded.
+
+Hire only when:
+1. work is sold,
+2. the task is repeatable,
+3. the task has a written Definition of Done,
+4. margin can absorb the cost,
+5. the hire creates measurable capacity.
+
+Until then, fix sales, scope, process, or prioritization.
+
+## Repository map
+
+- `1_The_Harsh_Reality` — reality checks
+- `2_Lead_Generation` — pipeline creation
+- `3_Sales` — qualification and closing
+- `4_Operations` — delivery and client control
+- `5_The_Million_Dollar_Path` — staged growth
+- `6_Niche_Packages.md` — offer library
+- `7_The_God_Schedule` — three-person daily rhythm
+- `8_Marketing_and_Content` — proof-based marketing
+- `9_The_Solo_Tech_Stack` — retained filename; content now reflects a team stack
+- `10_The_Execution_Trap` — anti-procrastination
+- `11_The_Final_Docs` — reusable operating templates
+- `12_Master_Agency_Identity.txt` — positioning
+- `13_UML_Workflows.md` — workflows
+- `14_EXECUTION_SYSTEM` — execution discipline
+- `15_TEAM_OF_3_OPERATING_SYSTEM` — role ownership, daily schedule, project pods, meetings, scoreboards
+
+**This repository is not the business. Shipped work, conversations, contracts, and collected cash are the business.**
