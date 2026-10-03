@@ -1,57 +1,46 @@
-# FLOW VELLO — DAILY EXECUTION DASHBOARD
+FLOW VELLO — 3-PERSON EXECUTION DASHBOARD
 
-Use this file every working day.
+PRIMARY RULE
+Three engineers without ownership become three people waiting for each other.
 
-## 14-DAY TARGET
+SEATS
+A = Revenue & Solutions Lead
+B = Delivery & Automation Lead
+C = Product, QA & Systems Lead
 
-Buyer type: ____________________
-Painful workflow: ______________
-Offer: _________________________
-Price: $________________________
-Primary channel: _______________
+DAILY COMPANY INPUTS
+A: 10+ new personalized contacts + 10+ follow-ups
+B: committed delivery milestone
+C: QA/proof/system milestone
 
-## TODAY
+DAILY COMPANY OUTPUTS
+- conversations
+- qualified opportunities
+- proposals
+- deposits/cash
+- shipped client work
+- QA-approved releases
+- proof/assets
 
-Prospects researched: __ / 30
-First contacts: __ / 20
-Follow-ups: __ / 10
-Replies: __
-Qualified: __
-Calls booked: __
-Calls held: __
-Proposals sent: __
-Deals won: __
-Cash collected: $____
-Delivery tasks completed: __
+PIPELINE
+Lead -> Contacted -> Replied -> Qualified -> Call -> Proposal -> Deposit -> Onboarding -> Build -> QA -> Demo -> Handoff -> Proof -> Repeat/Referral
 
-## PIPELINE
+RED FLAGS
+- 0 outreach
+- 0 follow-ups
+- coding without scoped work
+- proposal without qualification
+- work started without payment terms
+- blocked task >24h
+- production change without QA
+- three people solving the same task
+- more strategy docs while execution quota is incomplete
 
-Lead:
-Contacted:
-Replied:
-Qualified:
-Call:
-Proposal:
-Won:
-Delivery:
-QA:
-Handoff:
+END-OF-DAY
+A logs pipeline.
+B logs delivery.
+C logs QA/proof.
+All three record tomorrow's first physical action.
 
-## RULES
-
-- Do not change niche because one day was quiet.
-- Do not change the offer without evidence.
-- Do not buy another tool because outreach feels uncomfortable.
-- Do not count "research" as outreach.
-- Do not count sent messages as sales.
-- Do not count revenue until money is actually received.
-
-## END-OF-DAY QUESTIONS
-
-1. What did I actually ship?
-2. How many real buyers did I contact?
-3. Where did prospects stop responding?
-4. What objection appeared repeatedly?
-5. What will I change tomorrow?
-
-Run this for 14 days before making major strategic changes, unless the offer is clearly impossible, unethical, technically infeasible, or contradicted by direct market evidence.
+REVENUE IS NOT "LIKELY", "PROMISED", OR "INVOICED".
+Revenue is cash actually collected.
