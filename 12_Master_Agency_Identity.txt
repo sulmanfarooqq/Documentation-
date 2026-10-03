@@ -1,60 +1,39 @@
-# FLOW VELLO — MASTER AGENCY OPERATING IDENTITY
+# FLOW VELLO — MASTER AGENCY IDENTITY
+
+Flow Vello is a three-person professional software engineering team.
 
 ## Positioning
+> We build better business systems, not dumb products or websites.
 
-Flow Vello helps businesses eliminate repetitive work, connect disconnected systems and build smarter operations through workflow automation, AI agents and custom software.
+## Services
+- Workflow Automation
+- WhatsApp & Messaging Automation
+- AI Customer Support
+- Custom AI Agents
+- Sales Automation
+- Executive Dashboards
+- Custom Software Development
 
-The services directory is organized around:
+## Seats
+A — Revenue & Solutions
+B — Delivery & Automation
+C — Product, QA & Systems
 
-1. Workflow Automation
-2. WhatsApp & Messaging Automation
-3. AI Customer Support
-4. Custom AI Agents
-5. Sales Automation
-6. Executive Dashboards
-7. Custom Software Development
+All three can engineer. Accountability remains separated.
 
-## What Flow Vello sells
+## Operating principle
+Problem -> Process -> Solution -> Proof -> Next step.
 
-Not technology.
+The agency does not sell "AI transformation." It sells a specific workflow improvement that can be scoped, built, tested, and accepted.
 
-Flow Vello sells a better business process.
+## Delivery
+Diagnose -> Scope -> Deposit -> Build -> QA -> Demo -> Handoff -> Support.
 
-Examples:
-- lead captured -> qualified -> routed -> followed up
-- customer question -> AI response -> human escalation
-- WhatsApp inquiry -> qualification -> CRM -> appointment
-- disconnected systems -> synchronized workflow
-- scattered metrics -> one executive dashboard
-- manual internal process -> controlled automation
+## Truth rules
+No fake case studies.
+No fake metrics.
+No guaranteed ROI.
+No fake logos.
+No substantial unpaid implementation.
 
-## Stage 1 business model
-
-Sell fixed-scope implementation projects.
-
-Start at $150–$500 for a small, clearly bounded problem.
-Move toward $500–$1,000+ after successful proof and repeatable delivery.
-
-Retainers come after the client has a working system worth maintaining.
-
-## Founder role
-
-At zero revenue:
-- prospect
-- sell
-- scope
-- architect
-- deliver
-- QA
-- document
-
-As revenue grows:
-- delegate repeatable implementation
-- delegate coordination
-- keep ownership of positioning, sales, quality and key relationships
-
-## Agency rule
-
-Do not present seven services to every prospect.
-
-Lead with the one service/problem that matches their visible bottleneck. The rest of the service directory is expansion capacity, not the opening pitch.
+Three engineers are a capacity advantage, not an excuse to run 50 offers simultaneously.

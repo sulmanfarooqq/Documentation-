@@ -1,61 +1,69 @@
-# FLOW VELLO — SIMPLE UML WORKFLOWS
+# Flow Vello — Three-Person Operating Workflows
 
-These diagrams are intentionally short. Use them to remember the system, not to decorate the repository.
-
-## 1. Acquisition
-
+## 1. Company Revenue + Delivery
 ```mermaid
-flowchart LR
-A[Target Buyer] --> B[Research Problem]
-B --> C[Personalized Outreach]
-C --> D{Reply?}
-D -- No --> E[Follow Up]
-E --> C
-D -- Yes --> F[Discovery]
-F --> G{Qualified?}
-G -- No --> H[Archive / Nurture]
-G -- Yes --> I[Scope + Price]
-I --> J[Deposit]
-J --> K[Onboarding]
+flowchart TD
+ A[Revenue Lead A] --> P[Qualified Prospect]
+ P --> D[Discovery]
+ D --> Q{Qualified?}
+ Q -->|No| N[Nurture / Close]
+ Q -->|Yes| S[Scope + Proposal]
+ S --> DP[Deposit / Agreement]
+ DP --> B[Delivery Lead B]
+ B --> C[Product + QA Lead C]
+ C --> T[QA / Acceptance]
+ T -->|Fail| B
+ T -->|Pass| DEMO[Client Demo]
+ DEMO --> H[Handoff]
+ H --> PR[Proof / Referral / Repeat]
+ PR --> A
 ```
 
-## 2. Delivery
-
+## 2. Daily Ownership
 ```mermaid
 flowchart LR
-A[Paid + Scope] --> B[Access]
-B --> C[Build]
-C --> D[Internal QA]
-D --> E[Client Demo]
-E --> F{Accepted?}
-F -- No --> G[Fix Within Scope]
-G --> D
-F -- Yes --> H[Handoff]
-H --> I[Testimonial / Referral]
+ A[Revenue A] -->|Pipeline / Calls / Proposals| REV[Revenue]
+ B[Delivery B] -->|Build / Integrate / Deploy| DEL[Delivery]
+ C[Product + QA C] -->|Test / Review / Proof| QA[Quality]
+ REV --> SYNC[Daily Company Sync]
+ DEL --> SYNC
+ QA --> SYNC
 ```
 
-## 3. Hiring
-
+## 3. Client Project Gate
 ```mermaid
-flowchart LR
-A[More Work Sold] --> B{Capacity Exceeded?}
-B -- No --> C[Founder Delivers]
-B -- Yes --> D[Define Repeatable Task]
-D --> E[Hire Contractor]
-E --> F[Founder QA]
-F --> G[Document SOP]
-G --> H[Repeat]
+flowchart TD
+ SCOPE[Approved Scope] --> DEP[Deposit]
+ DEP --> PLAN[B Technical Plan]
+ PLAN --> BUILD[Implementation]
+ BUILD --> QA[C QA]
+ QA -->|Fail| FIX[B Fix]
+ FIX --> QA
+ QA -->|Pass| ACC[Acceptance]
+ ACC -->|Change Request| A[A Scope Decision]
+ A --> CHANGE[Re-scope / Re-price]
+ ACC -->|Accepted| HAND[Handoff]
 ```
 
-## 4. Revenue loop
-
+## 4. Hiring Gate
 ```mermaid
-flowchart LR
-A[Prospects] --> B[Conversations]
-B --> C[Paid Projects]
-C --> D[Proof]
-D --> E[Better Offer]
-E --> A
+flowchart TD
+ SOLD[Work Sold] --> CAP[Capacity Pressure]
+ CAP --> REP{Repeatable Task?}
+ REP -->|No| SCOPE[Fix Scope / Process]
+ REP -->|Yes| DOD{Definition of Done?}
+ DOD -->|No| DOC[Document SOP + QA]
+ DOD -->|Yes| ECON{Economics Support Hire?}
+ ECON -->|No| PRIOR[Prioritize / Reprice]
+ ECON -->|Yes| HIRE[Contractor / Specialist]
+ HIRE --> QA[Team QA]
+ QA --> DOC2[Update SOP]
 ```
 
-The loop is the business. The tools are replaceable.
+## 5. Critical Ownership Rule
+- Revenue: A
+- Delivery: B
+- Quality/Systems: C
+- Company-wide priorities: one named DRI per decision
+
+Never use "everyone owns it" for an outcome.
