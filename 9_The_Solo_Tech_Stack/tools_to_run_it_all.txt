@@ -1,35 +1,34 @@
-# ZERO-DOLLAR OPERATING STACK
+# TEAM TECH STACK
 
-Free tiers change. Verify current limits before depending on a tool.
+The filename is retained for repository continuity. The operating model is now for three engineers.
 
 ## Minimum stack
 
-**Lead research:** LinkedIn + Google search + public company websites.
+- Lead research: LinkedIn, Google, public company sites
+- Pipeline: simple CRM/Google Sheets
+- Communication: business email + meeting tool
+- Docs: shared documentation
+- Code: GitHub
+- Hosting: appropriate low-cost/free hosting during validation
+- Automation: n8n/Make/Zapier/custom code based on requirements
+- AI: existing tools where they create measurable value
+- Project tracking: one Kanban/project board
 
-**Pipeline:** Google Sheets or a free CRM.
+## Engineering rules
 
-**Communication:** business email + Google Meet.
+- Git flow must be understandable to all three.
+- Every production change is reviewable.
+- Secrets never live in source control.
+- Production access follows least privilege.
+- Client environments remain separated.
+- Shared credentials are avoided.
+- Backups/rollback exist where the project requires them.
 
-**Documents:** Google Docs/Drive.
+## Team rule
 
-**Code:** GitHub.
+More tools do not solve unclear ownership.
 
-**Demo hosting:** Netlify or another free hosting tier where appropriate.
+Use the smallest stack that lets the team:
+**sell -> build -> test -> deploy -> support -> measure.**
 
-**Automation:** n8n/Make/Zapier or custom code, selected per client requirement and cost.
-
-**Project tracking:** a simple Kanban board.
-
-**AI:** use the model/tools already available to you; do not buy multiple subscriptions before revenue.
-
-## Pipeline columns
-
-Lead -> Contacted -> Replied -> Qualified -> Call Booked -> Proposal -> Won -> Onboarding -> Delivery -> QA -> Handoff -> Follow-up
-
-## Tool rule
-
-Tools do not create demand.
-
-If a tool requires money and does not directly support a sold project, delay the purchase.
-
-Do not build your agency around a specific vendor's free tier. Build around portable processes.
+Do not buy software to compensate for an empty pipeline.
