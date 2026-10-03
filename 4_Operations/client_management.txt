@@ -1,29 +1,42 @@
-# CLIENT MANAGEMENT — SIMPLE VERSION
+# CLIENT MANAGEMENT — THREE-PERSON TEAM
 
-At Stage 1, complexity is the enemy.
+Every client has one accountable owner: A.
 
-## One source of truth
+B owns delivery execution.
+C owns QA/release evidence.
 
-Use one project board and one client communication channel.
+The client should not have to ask three engineers for status.
 
-For each project track:
-- Scope
-- Tasks
-- Owner
-- Deadline
-- Status
-- Blockers
-- Client approvals
-- Links/access
+## Single source of truth
 
-Email is acceptable for formal communication. If a client uses WhatsApp, summarize important decisions in the project record so nothing is lost.
+Track:
+- scope
+- milestones
+- owner
+- deadline
+- status
+- blockers
+- approvals
+- access
+- decisions
+- links
+- change requests
 
-## Update rhythm
+## Communication
 
-Send a short update at least twice per week:
-- completed
-- next
-- blocked
-- client action needed
+A sends the client-facing status update.
 
-Never make the client chase you for status.
+Internal format:
+**Done / Next / Blocked / Risk / Decision needed**
+
+## Escalation
+
+- Technical blocker -> B
+- Quality/release blocker -> C
+- Scope/payment/client decision -> A
+
+Escalate within the same working day.
+
+## Rule
+
+The client experiences Flow Vello as one company, not three freelancers in a group chat.
