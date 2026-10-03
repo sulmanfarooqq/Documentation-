@@ -1,46 +1,57 @@
-# CLOSING A SMALL PROJECT
+# CLOSING — THREE-PERSON TEAM
 
-Your first objective is not a $10,000 contract. It is a paid project that can be delivered quickly and turned into proof.
+The team does not need three salespeople.
+
+It needs:
+- A to own the commercial relationship,
+- B to answer implementation feasibility,
+- C to validate product/QA implications.
 
 ## Discovery
 
-Ask:
-1. What happens today?
+A leads:
+1. What is happening now?
 2. Where does the process break?
-3. How often does it happen?
-4. Who performs the manual work?
+3. Who performs it?
+4. How often?
 5. What tools are involved?
-6. What happens when the process fails?
-7. What would a useful improvement look like?
-8. Who approves the work?
+6. What happens when it fails?
+7. What does the buyer want changed?
+8. Who approves?
 9. What deadline matters?
-10. What budget range has been allocated?
+10. What budget/process exists?
 
-## Scope
+B joins only for technical depth.
+C joins when product, UX, QA, data, or release risk matters.
 
-Write:
+## Proposal
+
+Proposal must state:
 - problem
 - current workflow
-- proposed workflow
-- exact deliverables
+- future workflow
+- deliverables
 - exclusions
 - client responsibilities
 - timeline
+- acceptance criteria
 - price
 - payment terms
-- acceptance/QA criteria
+- support boundary
 
 ## Payment
 
-For small projects, require an upfront deposit before production. A common structure is 50% upfront and 50% before final handoff.
+For small fixed-scope projects, a common operating structure is 50% upfront and 50% before final handoff, adjusted for actual deal context.
 
-Use a payment method actually available to both parties.
+Do not begin substantial work because "the client said yes."
 
-Never start substantial work based only on a promise to pay.
+A verbal yes is not cash.
 
-## Close
+## Three-person anti-scope-creep rule
 
-Do not pressure people. Make the decision easy:
-"Based on what you showed me, this is the smallest version I would build first. It is $X, takes Y days, and includes A/B/C. If that works, I will send the scope and payment details."
-
-A clean scope closes better than hype.
+If the buyer requests something outside scope:
+1. A records it.
+2. B estimates implementation.
+3. C checks impact on QA/release.
+4. A sends the change decision and price.
+5. No silent free expansion.
