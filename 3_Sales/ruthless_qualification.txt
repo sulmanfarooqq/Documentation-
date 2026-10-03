@@ -1,33 +1,34 @@
-# QUALIFICATION
+# RUTHLESS QUALIFICATION — TEAM VERSION
 
-Being "ruthless" does not mean insulting prospects or rejecting anyone who cannot pay a huge retainer.
+A owns qualification.
 
-It means protecting your limited time.
+A deal is worth engineering time only when there is evidence of:
 
-## Qualify for
+- real business pain
+- accessible decision maker
+- clear workflow
+- technical access/feasibility
+- meaningful urgency
+- acceptable scope
+- workable payment terms
 
-- painful problem
-- clear owner
-- reachable decision-maker
-- urgency
-- access to required systems
-- realistic scope
-- budget appropriate to the project
+## Pause/disqualify
 
-## Disqualify or pause when
+Pause when:
+- the buyer wants unlimited free work,
+- nobody can approve,
+- requirements change every conversation,
+- required access cannot be provided,
+- deadline is technically impossible,
+- payment terms are unacceptable,
+- the problem is merely "nice to have."
 
-- they want unlimited work
-- nobody owns approvals
-- requirements change every conversation
-- access cannot be provided
-- the deadline is impossible
-- they expect free production work
-- they refuse clear payment terms
+## Team protection
 
-## Important
+Never let three engineers spend 20 hours discovering that a project was never commercially qualified.
 
-Do not invent an ROI number.
+A owns the gate.
 
-If the prospect says a manual process costs 20 hours/month, document that as their estimate. Validate it during discovery or delivery when possible.
+B/C can reject technical impossibility.
 
-Your first $1,000 can come from several small projects. You do not need five giant clients immediately.
+No one overrides the gate because a project sounds exciting.
