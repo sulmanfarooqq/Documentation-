@@ -1,50 +1,63 @@
-# OUTBOUND MACHINE — STAGE 1
+# THREE-PERSON OUTBOUND MACHINE
 
-Do not wait for inbound.
+## One commercial owner
 
-## One target at a time
+A owns outbound.
 
-For a 14-day sprint, choose:
-- one buyer type
-- one painful workflow
-- one offer
-- one primary channel
+B and C contribute technical observations, demos, and niche research only when needed.
 
-Example offer:
-"We automate your new-lead flow so inquiries are captured, qualified, routed and followed up without manual copying."
+This prevents the classic team failure:
 
-## Daily numbers
+"Everyone is responsible for sales" = nobody is responsible.
 
-Minimum:
-- 30 qualified prospects researched
-- 20 personalized first contacts
+## 14-day test
+
+Choose:
+- one buyer type,
+- one painful workflow,
+- one offer,
+- one primary channel.
+
+Do not run five niches because three people are available.
+
+## Daily A quota
+
+- 20 qualified prospects researched
+- 10 personalized first contacts
 - 10 follow-ups
 - 2 direct asks for a short call
-- every response logged
+- all activity logged
 
-Quality matters, but "personalized" does not mean writing a 500-word essay for every prospect.
+B/C spend at most 20–30 minutes helping A with technical personalization when useful.
 
-## Prospect selection
+## Prospect signal
 
-Look for evidence:
-- contact forms
-- slow/manual booking
+Look for:
+- manual lead handling
 - WhatsApp-heavy sales
-- multiple spreadsheets
-- disconnected CRM/tools
-- repetitive customer questions
-- obvious lead-response gaps
+- repetitive support
+- spreadsheets between systems
+- disconnected CRM
+- slow response
+- repeated data entry
+- booking/admin bottlenecks
+- visible software/process gaps
 
-## Outreach formula
+## Message
 
-Observation -> business problem -> relevant outcome -> low-friction CTA.
+Observation -> operational problem -> relevant outcome -> low-friction CTA.
 
-Do not claim savings or results you have not measured.
+Do not lead with "we are a team of AI experts."
 
-## Follow-up
+## Pipeline quality
 
-Follow up several times with useful context, not "just checking in".
+Track:
+Lead / Contacted / Replied / Qualified / Call / Proposal / Won / Lost / Nurture.
 
-Stop when they decline, ask you to stop, or the sequence reaches its limit.
+A owns the truth of this board.
 
-Outbound is a process. Random messages are not a process.
+## Hard rule
+
+More engineers do not justify more outreach complexity.
+
+The commercial system stays simple until the market gives evidence for expansion.
