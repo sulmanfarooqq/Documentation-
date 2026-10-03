@@ -1,28 +1,42 @@
-# CLIENT -> DELIVERY HANDOFF
+# HANDOFF — THREE-PERSON DELIVERY
 
-The project does not enter development until the scope is clear.
+Before implementation begins, A converts the sale into a buildable scope.
 
-## Required handoff
+## Required
 
-1. Business problem
-2. Desired outcome
-3. Current workflow
-4. Future workflow
-5. Systems involved
-6. Required access
-7. Exact deliverables
-8. Explicit exclusions
-9. Definition of Done
-10. Deadline
-11. Client approver
-12. Risks/unknowns
+- business problem
+- desired outcome
+- current workflow
+- future workflow
+- systems/tools
+- access requirements
+- deliverables
+- exclusions
+- Definition of Done
+- deadline
+- approver
+- failure behavior
+- support boundary
 
-## Rule
+## Ownership
 
-Client language must be translated into testable work.
+A: scope + acceptance
+B: architecture + implementation plan
+C: QA plan + release checklist
 
-"Build an AI agent" is not a specification.
+## Definition of Done example
 
-"Agent receives website inquiry, extracts name/service/date, checks approved knowledge, asks one missing question, creates CRM lead, and escalates uncertain cases to a human" is a specification.
+A lead enters through the agreed channel -> data is captured -> required fields are validated -> CRM record is created -> notification is sent -> booking/follow-up occurs -> failure is logged -> human escalation works -> test evidence exists.
 
-If the requirement cannot be tested, it is not finished.
+"Build an AI agent" is not a Definition of Done.
+
+## Release gate
+
+No production handoff until C confirms:
+- happy path
+- edge cases
+- permissions
+- error handling
+- logging
+- client acceptance criteria
+- rollback/disable path where relevant
