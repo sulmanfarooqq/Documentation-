@@ -1,4 +1,4 @@
-# Flow Vello — 50 Niche Selling Packages
+# Flow Vello — 50 Niche Selling Packages — THREE-PERSON TEAM
 
 ## Brutally honest rule
 
@@ -398,3 +398,7 @@ Lead with:
 Even though this document contains 50 packages, **do not sell all 50 at once**.
 
 Use one niche + one package + one outreach channel for a focused test period. The purpose of this catalog is to give Flow Vello a prepared offer for each market, not to create another excuse for indecision.
+
+
+## Team operating rule
+These 50 packages are an offer library, not 50 simultaneous campaigns. The three-person team still runs one focused commercial experiment at a time. A owns selling and qualification; B owns implementation feasibility; C owns QA/product feasibility. Team capacity does not justify selling everything at once. Select the package using evidence from buyer pain, access, urgency, scope, and willingness to pay.

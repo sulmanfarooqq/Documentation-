@@ -1,36 +1,36 @@
-# Execution Contract
+# THREE-PERSON EXECUTION CONTRACT
 
-Read this when you start bargaining with yourself.
+We are three engineers.
 
-I will not wait until I feel ready.
+That is not an excuse to avoid sales.
 
-I will not use planning as a substitute for exposure to the market.
+A owns revenue.
+B owns delivery.
+C owns quality/product/systems.
 
-I will not build five things before showing one.
+We will not:
+- hide in coding
+- confuse planning with progress
+- build before qualification
+- start substantial unpaid work
+- let scope creep silently
+- release without QA
+- create strategy documents instead of shipping
 
-I will not research ten niches when one prospect can answer the question.
-
-I will not call preparation "progress" unless it produces something required for the next action.
-
-I will accept:
+We accept:
 - rejection
-- imperfect work
-- awkward sales calls
+- imperfect demos
 - bugs
+- difficult calls
 - unclear requirements
-- small beginnings
+- small first deals
+- evidence that an idea is wrong
 
-I will optimize from evidence, not imagination.
+## Contract
 
-## The contract
+Every working day, each person ships something observable.
 
-**Today I will ship one thing.**
-
-Not tomorrow.
-
-Not after more research.
-
-Today.
-
-**Signature:**  
-**Date:**  
+A signature: __________
+B signature: __________
+C signature: __________
+Date: __________

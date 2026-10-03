@@ -1,55 +1,36 @@
-# Daily Execution Card
+# DAILY TEAM EXECUTION CARD
 
-Copy this into a note every morning.
+Date:
 
-## TODAY
+## A — Revenue
+First contacts:
+Follow-ups:
+Calls:
+Proposals:
+Cash:
+Biggest objection:
+Next physical action:
 
-**Date:**  
-**One outcome:**  
+## B — Delivery
+Milestone:
+Shipped:
+Blocked:
+Technical risk:
+Next physical action:
 
-### Block 1 — 25 minutes
-**Physical action:**  
-**Start:**  
-**Done?** YES / NO
+## C — Product / QA
+QA completed:
+Proof/demo shipped:
+System improvement:
+Risk:
+Next physical action:
 
-### Block 2 — 25 minutes
-**Physical action:**  
-**Start:**  
-**Done?** YES / NO
+## Company
+What shipped:
+What sold:
+What was learned:
+Critical blocker:
+Tomorrow's first action:
 
-### Block 3 — 25 minutes
-**Physical action:**  
-**Start:**  
-**Done?** YES / NO
-
-### Outreach
-- Prospects contacted:
-- Follow-ups sent:
-- Calls completed:
-
-### Shipped
-- Artifact:
-- Link / proof:
-
-### Evidence
-- Reply:
-- Objection:
-- Blocker:
-- Lesson:
-
-### Money
-- Cash received today:
-- Proposal value sent:
-
-## End-of-day rule
-
-Do not write a new strategy.
-
-Answer only:
-
-1. What did I ship?
-2. Who did I contact?
-3. What happened?
-4. What is tomorrow's first physical action?
-
-Then stop.
+## Rule
+If the card is full of plans but empty of shipped artifacts, the team planned instead of executing.

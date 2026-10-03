@@ -1,75 +1,47 @@
-# 7-Day Execution Challenge
+# 7-DAY THREE-PERSON EXECUTION CHALLENGE
 
-For the next 7 days, do not create a new strategy.
+Do not create a new strategy during these seven days.
 
 ## Every day
 
-### Before noon
-- 2 × 25-minute execution blocks
-- 10 prospect contacts or follow-ups
+### A
+- 10 first contacts
+- 10 follow-ups
+- pipeline updated
+- calls/proposals as available
 
-### Afternoon
-- 1 × 25-minute build/delivery block
-- ship one artifact
+### B
+- one committed delivery milestone
+- one technical blocker removed
 
-### End of day
-Record:
-- blocks completed
-- contacts
-- replies
-- calls
-- artifacts
-- cash
-- biggest blocker
+### C
+- QA/proof milestone
+- one process or product improvement
+
+### Company
+- one shipped artifact minimum
 
 ## Day 1
-Build the smallest useful demo.
-
-**Ship:** working demo or video walkthrough.
+Choose one buyer/workflow and define the smallest demo.
 
 ## Day 2
-Create 20 qualified prospects.
-
-**Ship:** completed prospect list.
+A builds a 20-prospect list. B/C provide technical personalization only where useful.
 
 ## Day 3
-Send 10 personalized messages.
-
-**Ship:** sent messages.
+A sends 10 first contacts. B ships the demo. C QA's it.
 
 ## Day 4
-Send 10 more messages + follow up with earlier prospects.
-
-**Ship:** outreach evidence.
+A follows up and runs calls. B/C improve based on real objections.
 
 ## Day 5
-Improve the offer using actual objections.
-
-**Ship:** revised one-page offer.
+Turn the strongest real objection into an offer improvement.
 
 ## Day 6
-Run one sales call or record a realistic mock discovery call.
-
-**Ship:** call notes + next action.
+Run a real discovery call or realistic mock. Record decisions and next actions.
 
 ## Day 7
-Review evidence.
+Review replies, objections, calls, proposals, cash, and delivery quality.
 
-Answer:
-- What got replies?
-- What got ignored?
-- What problem did people understand?
-- What objection repeated?
-- What should be tested next?
+Change the system from evidence, not imagination.
 
-**Ship:** one evidence-based change.
-
-## Important
-
-If a day goes badly, do not restart the challenge.
-
-Continue on the next day.
-
-A missed day is a missed day.
-
-It is not permission to spend the next three days redesigning the system.
+If a day fails, continue. Do not restart with another planning week.
