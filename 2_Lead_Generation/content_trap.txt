@@ -1,32 +1,39 @@
-# CONTENT: SUPPORT SALES, DO NOT REPLACE SALES
+# CONTENT IS NOT THE PIPELINE
 
-Content is secondary until Flow Vello has paying customers.
+Three engineers can easily turn content into a comfortable substitute for selling.
 
-## Priority order
+Do not.
 
-1. Direct outreach
-2. Follow-up
-3. Discovery calls
-4. Delivery and proof
-5. Case studies
-6. Content distribution
+Until the agency has repeatable demand:
+1. outbound and referrals come first,
+2. sales conversations come second,
+3. delivery/proof comes third,
+4. content documents the proof.
 
-Do not spend three hours making generic "Top 5 AI trends" posts.
+## Team ownership
 
-## Useful content
+A owns the commercial calendar.
+C turns real delivery lessons into proof assets.
+B supplies technical demonstrations and architecture evidence.
 
-Publish proof-oriented material:
-- teardown of a real workflow problem
-- short before/after automation
-- architecture diagram
-- demo of a small automation
-- lesson from a real client delivery
-- quantified result when the number is verified
+Nobody spends half a day making a "viral" post while qualified prospects are untouched.
 
-Never invent client results. If it is a demo, label it as a demo.
+## Weekly minimum
 
-## Minimum cadence
+- 2 useful LinkedIn/professional posts
+- 1 short build/demo/proof asset
+- 1 portfolio or case-study improvement when real evidence exists
 
-2 useful posts/week is enough during Stage 1.
+Content must come from:
+- a real problem,
+- a real build,
+- a real lesson,
+- a real verified result.
 
-Content must support an offer you are actively selling. It is not a substitute for prospecting.
+Never manufacture case studies, metrics, testimonials, or client logos.
+
+## Priority rule
+
+If pipeline activity is incomplete, content gets shortened.
+
+A sales message sent to a real buyer is more commercially useful than another generic AI post.
