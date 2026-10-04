@@ -1,11 +1,8 @@
-# AGENCY COMMAND CENTER
-- Use one shared board; do not build a custom internal app before sales repeatability.
-- Every lead/task/project must have one owner, one status, and one dated next action.
-- Lead fields: company, buyer, signal/evidence URL, offer fit, score, owner, contact date, next action.
-- Pipeline: Signal → Verified → Contacted → Replied → Qualified → Proposal → Deposit → Delivery → Proof.
-- A view: new targets, follow-ups, replies, calls, proposals, deposits.
-- B view: active projects, milestones, technical risks, deployments, blockers.
-- C view: QA queue, defects, release checks, proof assets, documentation.
-- Daily update: A logs outreach; B logs milestone; C logs tests/proof; all surface blockers.
-- Weekly review: find the weakest conversion step and choose one experiment.
-- If work lives in private notes or chat only, the command center has failed.
+# Agency Command Center
+This repository is the operating system for Flow Vello's first repeatable paid offer.
+Source of truth for daily numbers: 00_EXECUTION_DASHBOARD.txt.
+Brand and scope: 12_Master_Agency_Identity.txt; workflow: 13_UML_Workflows.md.
+Client acquisition lives in 16_CLIENT_HUNTING_SYSTEM; team ownership in 15_TEAM_OF_3_OPERATING_SYSTEM.
+Execution habits live in 14_EXECUTION_SYSTEM; client templates live in 11_The_Final_Docs.
+Keep existing files to 5–10 lines; do not create duplicate plans or dashboards.
+If guidance conflicts, prioritize the current offer, signed scope, client safety, and evidence.
