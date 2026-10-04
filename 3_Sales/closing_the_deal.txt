@@ -1,57 +1,8 @@
-# CLOSING — THREE-PERSON TEAM
-
-The team does not need three salespeople.
-
-It needs:
-- A to own the commercial relationship,
-- B to answer implementation feasibility,
-- C to validate product/QA implications.
-
-## Discovery
-
-A leads:
-1. What is happening now?
-2. Where does the process break?
-3. Who performs it?
-4. How often?
-5. What tools are involved?
-6. What happens when it fails?
-7. What does the buyer want changed?
-8. Who approves?
-9. What deadline matters?
-10. What budget/process exists?
-
-B joins only for technical depth.
-C joins when product, UX, QA, data, or release risk matters.
-
-## Proposal
-
-Proposal must state:
-- problem
-- current workflow
-- future workflow
-- deliverables
-- exclusions
-- client responsibilities
-- timeline
-- acceptance criteria
-- price
-- payment terms
-- support boundary
-
-## Payment
-
-For small fixed-scope projects, a common operating structure is 50% upfront and 50% before final handoff, adjusted for actual deal context.
-
-Do not begin substantial work because "the client said yes."
-
-A verbal yes is not cash.
-
-## Three-person anti-scope-creep rule
-
-If the buyer requests something outside scope:
-1. A records it.
-2. B estimates implementation.
-3. C checks impact on QA/release.
-4. A sends the change decision and price.
-5. No silent free expansion.
+# Close Through Clarity
+Ask the buyer to show the current workflow, failure point, business impact, and desired result.
+Confirm urgency, decision-maker, tools, permissions, budget, and approval process.
+Propose one workflow with explicit inclusions, exclusions, timeline, price, and acceptance tests.
+Ask for 50% upfront; remaining payment is due at agreed acceptance.
+Handle objections by clarifying risk, scope, timing, or trust—not by inventing guarantees.
+If the buyer cannot commit, agree a dated next step or close the lead as unqualified.
+No signed scope and deposit means no custom production work.
