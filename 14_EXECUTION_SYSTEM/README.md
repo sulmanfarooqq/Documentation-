@@ -2,40 +2,32 @@
 
 ## Brutal diagnosis
 
-The old problem was one person planning instead of executing.
-
-With three engineers, the danger is different: **the team can collectively hide inside engineering.**
+With three engineers, the team can collectively hide inside engineering.
 
 Three people can have three ideas, three roadmaps, and three technical builds and still have no customers.
 
-## Seats
+The fix is not another strategy document.
 
-### A — Revenue & Solutions
-- prospecting
-- follow-ups
-- discovery
-- proposals
-- client relationship
-- solution design
-
-### B — Delivery & Automation
-- implementation
-- integrations
-- deployment
-- delivery milestones
-
-### C — Product, QA & Systems
-- product/full-stack work
-- QA
-- release evidence
-- internal systems
-- proof assets
+The fix is a daily system that forces commercial evidence.
 
 ## Company rule
 
 > Every working day must produce commercial evidence OR paid-delivery evidence.
 
-## 25-minute execution
+For an agency with no active client, commercial evidence comes first.
+
+Commercial evidence means:
+
+- trigger account verified
+- qualified buyer identified
+- personalized contact sent
+- real reply received
+- sales call completed
+- qualified opportunity created
+- proposal sent
+- deposit received
+
+## The 25-minute execution loop
 
 1. State the physical output.
 2. Set 25 minutes.
@@ -44,9 +36,64 @@ Three people can have three ideas, three roadmaps, and three technical builds an
 5. Ship/log.
 6. Choose the next action.
 
+Reading, planning, discussing, and researching without a shipped output are not execution.
+
+## Client-hunting priority
+
+When there is no active client delivery:
+
+### A
+Owns:
+
+- trigger hunting
+- account qualification
+- outreach
+- follow-ups
+- calls
+- proposals
+
+### B
+Owns:
+
+- technical validation of qualified opportunities
+- reusable demo components
+- delivery readiness
+
+### C
+Owns:
+
+- evidence validation
+- QA
+- proof/demo quality
+- reusable sales assets
+
+The team does not spend the morning redesigning the website, rebuilding the agency stack, or creating speculative products.
+
+## The first 90 minutes
+
+08:45–09:15
+A finds 10–15 fresh trigger accounts.
+
+09:15–09:35
+A scores them and identifies buyers.
+
+09:35–10:05
+A sends 5 highly personalized contacts.
+
+10:05–10:20
+B validates technical claims for strongest opportunities.
+
+10:20–10:35
+C verifies evidence and improves relevant proof.
+
+10:35–11:00
+A sends the remaining 5 contacts and updates the pipeline.
+
 ## Shipped means
-- message sent
-- prospect logged
+
+- account verified
+- contact sent
+- follow-up sent
 - call completed
 - proposal sent
 - deposit received
@@ -56,17 +103,12 @@ Three people can have three ideas, three roadmaps, and three technical builds an
 - handoff completed
 - verified proof
 
-Reading, planning, discussing, and researching are not shipped.
-
-## Daily scoreboard
-
-A: contacts / follow-ups / calls / proposals / cash
-B: delivery milestone / deployment / blockers
-C: QA / proof / systems milestone
-Company: shipped artifacts / cash / critical risks
-
 ## Hard truth
 
 If all three spend a day coding while the pipeline is empty, the company worked hard on engineering.
 
 It did not necessarily work hard on the agency.
+
+If the team sends hundreds of generic messages to companies with no evidence of need, that is not a superior sales system either.
+
+Signal quality is the first filter.
