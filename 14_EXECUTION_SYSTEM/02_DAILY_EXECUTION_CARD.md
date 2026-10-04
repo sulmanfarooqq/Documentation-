@@ -1,36 +1,8 @@
-# DAILY TEAM EXECUTION CARD
-
-Date:
-
-## A — Revenue
-First contacts:
-Follow-ups:
-Calls:
-Proposals:
-Cash:
-Biggest objection:
-Next physical action:
-
-## B — Delivery
-Milestone:
-Shipped:
-Blocked:
-Technical risk:
-Next physical action:
-
-## C — Product / QA
-QA completed:
-Proof/demo shipped:
-System improvement:
-Risk:
-Next physical action:
-
-## Company
-What shipped:
-What sold:
-What was learned:
-Critical blocker:
-Tomorrow's first action:
-
-## Rule
-If the card is full of plans but empty of shipped artifacts, the team planned instead of executing.
+# Daily Execution Card
+[ ] A: 10 qualified first contacts with specific public evidence.
+[ ] A: 10 follow-ups; log stage, response, and next action.
+[ ] A: qualify replies and ask for a call or explicit next step.
+[ ] B: complete one delivery/demo milestone only when commercially justified.
+[ ] C: complete one QA, acceptance-test, or proof milestone.
+[ ] Team: record blockers with one owner and deadline.
+[ ] End day: update contacts, replies, calls, proposals, deposits, cash, and defects.
