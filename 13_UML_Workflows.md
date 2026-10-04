@@ -1,69 +1,22 @@
-# Flow Vello — Three-Person Operating Workflows
-
-## 1. Company Revenue + Delivery
+# FLOW VELLO WORKFLOWS
 ```mermaid
 flowchart TD
- A[Revenue Lead A] --> P[Qualified Prospect]
- P --> D[Discovery]
- D --> Q{Qualified?}
- Q -->|No| N[Nurture / Close]
- Q -->|Yes| S[Scope + Proposal]
- S --> DP[Deposit / Agreement]
- DP --> B[Delivery Lead B]
- B --> C[Product + QA Lead C]
- C --> T[QA / Acceptance]
- T -->|Fail| B
- T -->|Pass| DEMO[Client Demo]
- DEMO --> H[Handoff]
- H --> PR[Proof / Referral / Repeat]
- PR --> A
+A[Public trigger] --> B[Verify buyer + evidence]
+B --> C{Fits one offer?}
+C -- No --> D[Discard / nurture]
+C -- Yes --> E[A sends tailored contact]
+E --> F{Positive reply?}
+F -- No --> G[Follow up with new value]
+G --> E
+F -- Yes --> H[Qualify problem, urgency, budget]
+H --> I{Qualified?}
+I -- No --> D
+I -- Yes --> J[Scope + proposal]
+J --> K{Deposit received?}
+K -- No --> L[Log objection + next action]
+K -- Yes --> M[B builds]
+M --> N[C tests]
+N --> O{Acceptance tests pass?}
+O -- No --> M
+O -- Yes --> P[A accepts; B hands off; C records proof]
 ```
-
-## 2. Daily Ownership
-```mermaid
-flowchart LR
- A[Revenue A] -->|Pipeline / Calls / Proposals| REV[Revenue]
- B[Delivery B] -->|Build / Integrate / Deploy| DEL[Delivery]
- C[Product + QA C] -->|Test / Review / Proof| QA[Quality]
- REV --> SYNC[Daily Company Sync]
- DEL --> SYNC
- QA --> SYNC
-```
-
-## 3. Client Project Gate
-```mermaid
-flowchart TD
- SCOPE[Approved Scope] --> DEP[Deposit]
- DEP --> PLAN[B Technical Plan]
- PLAN --> BUILD[Implementation]
- BUILD --> QA[C QA]
- QA -->|Fail| FIX[B Fix]
- FIX --> QA
- QA -->|Pass| ACC[Acceptance]
- ACC -->|Change Request| A[A Scope Decision]
- A --> CHANGE[Re-scope / Re-price]
- ACC -->|Accepted| HAND[Handoff]
-```
-
-## 4. Hiring Gate
-```mermaid
-flowchart TD
- SOLD[Work Sold] --> CAP[Capacity Pressure]
- CAP --> REP{Repeatable Task?}
- REP -->|No| SCOPE[Fix Scope / Process]
- REP -->|Yes| DOD{Definition of Done?}
- DOD -->|No| DOC[Document SOP + QA]
- DOD -->|Yes| ECON{Economics Support Hire?}
- ECON -->|No| PRIOR[Prioritize / Reprice]
- ECON -->|Yes| HIRE[Contractor / Specialist]
- HIRE --> QA[Team QA]
- QA --> DOC2[Update SOP]
-```
-
-## 5. Critical Ownership Rule
-- Revenue: A
-- Delivery: B
-- Quality/Systems: C
-- Company-wide priorities: one named DRI per decision
-
-Never use "everyone owns it" for an outcome.
