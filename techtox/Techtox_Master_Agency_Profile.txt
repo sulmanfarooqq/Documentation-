@@ -1,52 +1,7 @@
-# FLOW VELLO MASTER AGENCY PROFILE
-
-This file replaces the previous Techtox profile.
-
-## Positioning
-
-Flow Vello is a business automation and software partner focused on making operations faster, more connected and easier to manage.
-
-## Core services
-
-### 01 — Workflow Automation
-Connect tools and automate multi-step business processes.
-
-### 02 — WhatsApp & Messaging Automation
-Capture inquiries, send updates, qualify leads and route conversations.
-
-### 03 — AI Customer Support
-Automate common customer questions with controlled escalation to humans.
-
-### 04 — Custom AI Agents
-Build agents that use approved business data/tools to perform defined operational tasks.
-
-### 05 — Sales Automation
-Automate lead capture, qualification, follow-up and CRM updates.
-
-### 06 — Executive Dashboards
-Surface useful operational metrics in one place.
-
-### 07 — Custom Software Development
-Build internal tools and software when existing platforms cannot solve the workflow cleanly.
-
-## Commercial model
-
-- Fixed-scope implementation
-- Small automation sprints
-- Larger custom systems
-- Ongoing support/optimization after proof
-
-## Sales principle
-
-Start with a painful workflow, not the full service catalog.
-
-## Delivery principle
-
-Every project has:
-scope -> access -> implementation -> QA -> client acceptance -> handoff -> documentation.
-
-## Growth principle
-
-Revenue comes before hiring.
-Proof comes before aggressive pricing.
-Repeatability comes before scale.
+# Legacy Profile — Superseded
+This Techtox profile is archived operationally; Flow Vello is the active agency brand.
+Current buyer: real-estate agencies with verified lead-routing or follow-up friction.
+Current offer: scoped Lead Follow-up Fix with routing, one follow-up, and failure alerts.
+Current services page: https://flowvello.netlify.app/services
+Do not send this legacy profile to prospects or maintain duplicate positioning.
+All current sales decisions follow 12_Master_Agency_Identity.txt.
