@@ -1,0 +1,11 @@
+# DELIVERY RULES
+- Start only after deposit, written scope, access, owner, and acceptance criteria are confirmed.
+- Break work into 1–2 day milestones with a visible demo or test at each milestone.
+- Build the smallest reliable workflow; avoid AI when simple automation is safer.
+- Protect credentials, use least privilege, document data flows, and get approval for sensitive integrations.
+- Test happy path, duplicates, missing data, API failure, retries, permissions, and human takeover.
+- C blocks release for data loss, unauthorized access, broken core path, or critical unhandled failures.
+- Scope changes need written approval, new price, and updated deadline.
+- Handoff: access ownership, workflow map, known limits, rollback steps, and support terms.
+- Request testimonials only after delivery and explicit permission.
+- Done means acceptance criteria pass—not merely that code runs locally.
