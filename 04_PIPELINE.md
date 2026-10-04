@@ -1,0 +1,11 @@
+# PIPELINE RULES
+- **Lead:** Company + buyer + evidence URL + observed problem + owner + next action.
+- **Verified:** Evidence is current and the problem plausibly matches the offer.
+- **Contacted:** Personalized message sent; log date and exact channel.
+- **Replied:** Human response received; classify positive, neutral, objection, or no-fit.
+- **Qualified:** Problem, impact, owner, urgency, access, and budget path discussed.
+- **Call → Proposal:** Send written scope, exclusions, timeline, acceptance test, price, and payment terms.
+- **Won:** Deposit received; only then schedule committed build work.
+- **Delivery:** Build → internal QA → client demo → fixes → payment → handoff.
+- **Closed:** Record reason; request proof/referral only after value is delivered and permission is granted.
+- Every open record has exactly one owner and one dated next action; otherwise it is not active.
