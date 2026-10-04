@@ -1,11 +1,8 @@
-# CLIENT HUNTING — SIGNAL FIRST
-- Hunt for evidence of a current problem, not companies that might someday need AI.
-- First 14-day test: real-estate teams with visible lead follow-up/CRM friction.
-- Signals: explicit automation request, relevant hiring, lead-generation activity, expansion, CRM change.
-- Save the evidence URL/date; identify the owner/operations/sales decision-maker.
-- Score explicit demand +3, timely trigger +2, visible gap +2, reachable buyer +1, no evidence −3.
-- Contact only credible-fit accounts; personalize the observed signal and one outcome.
-- Daily: 10 researched first contacts and 10 follow-ups; track replies and booked calls.
-- Follow up after 2–3 business days with new value; respect opt-outs and channel rules.
-- 40 qualified contacts with no positive replies means revise signal, buyer, or message.
-- Never claim a secret guaranteed method; the edge is relevant evidence and disciplined learning.
+# Client Hunting System
+Hunt for evidence of a workflow problem, not merely businesses that might need software.
+Initial segment: US/UK real-estate agencies with observable lead-handling friction.
+Initial offer: scoped Lead Follow-up Fix, after discovery and feasibility checks.
+Use signal sources, match one signal to one offer, then record every contact in the hunt board.
+Daily target: 10 qualified first contacts and 10 follow-ups.
+Use the sprint to test conversion; no mass spam or unsupported claims.
+The objective is a qualified conversation and paid deposit, not a large spreadsheet.
