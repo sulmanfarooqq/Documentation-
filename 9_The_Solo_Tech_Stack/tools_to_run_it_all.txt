@@ -1,34 +1,8 @@
-# TEAM TECH STACK
-
-The filename is retained for repository continuity. The operating model is now for three engineers.
-
-## Minimum stack
-
-- Lead research: LinkedIn, Google, public company sites
-- Pipeline: simple CRM/Google Sheets
-- Communication: business email + meeting tool
-- Docs: shared documentation
-- Code: GitHub
-- Hosting: appropriate low-cost/free hosting during validation
-- Automation: n8n/Make/Zapier/custom code based on requirements
-- AI: existing tools where they create measurable value
-- Project tracking: one Kanban/project board
-
-## Engineering rules
-
-- Git flow must be understandable to all three.
-- Every production change is reviewable.
-- Secrets never live in source control.
-- Production access follows least privilege.
-- Client environments remain separated.
-- Shared credentials are avoided.
-- Backups/rollback exist where the project requires them.
-
-## Team rule
-
-More tools do not solve unclear ownership.
-
-Use the smallest stack that lets the team:
-**sell -> build -> test -> deploy -> support -> measure.**
-
-Do not buy software to compensate for an empty pipeline.
+# Minimum Tool Stack
+Use a spreadsheet for leads, stages, evidence URLs, last touch, and next action.
+Use email or the buyer's published business contact channel for personalized outreach.
+Use the client's existing CRM and approved automation tools when feasible.
+Use synthetic data in demos; never expose client data or credentials.
+Add paid tools only when a client funds them or a measured bottleneck justifies cost.
+Do not buy subscriptions to avoid the harder work of selling.
+Document access, costs, limits, and failure handling before production deployment.
