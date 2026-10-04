@@ -1,0 +1,11 @@
+# SCOREBOARD
+- A logs: qualified accounts, first contacts, follow-ups, positive replies, calls, proposals, deposits, cash.
+- B logs: promised/shipped milestone, blocker, deployment status, estimate versus actual.
+- C logs: tests passed, defects, release status, proof asset, permission status.
+- Weekly review: source → positive replies → calls → proposals → deposits; find the failing conversion step.
+- No replies: inspect evidence, buyer, channel, and opening line before increasing volume.
+- Replies but no calls: fix relevance/CTA; calls but no proposals: fix qualification/urgency.
+- Proposals but no deposits: inspect trust, scope, price, decision process, and follow-up.
+- Deposits but missed delivery: fix scoping, capacity, and QA before more acquisition.
+- One shared board is the source of truth; no private shadow spreadsheets.
+- Work counts only when it creates a logged decision, contact, tested artifact, or shipped milestone.
