@@ -1,43 +1,7 @@
-# MEETINGS — MINIMUM VIABLE MANAGEMENT
-
-## Daily stand-up — 15 minutes
-Each person:
-- shipped yesterday
-- ships today
-- blocker
-- risk
-
-No problem-solving inside stand-up.
-
-## Sales/technical sync — 20 minutes
-Only qualified opportunities.
-
-A explains:
-- buyer
-- pain
-- current workflow
-- requested outcome
-- budget/timing if known
-
-B/C answer:
-- feasibility
-- risks
-- dependencies
-- rough complexity
-
-## Weekly review — 45 minutes
-Review:
-- cash collected
-- qualified opportunities
-- proposals
-- conversion evidence
-- delivery status
-- escaped defects
-- client risks
-- repeated objections
-- next commercial experiment
-
-Do not spend an hour on vanity metrics.
-
-## Meeting rule
-If a DRI can make the decision asynchronously, do not schedule a meeting.
+# Meetings That Earn Their Time
+Daily async check-in: yesterday's evidence, today's deliverable, blocker, owner, deadline.
+Keep live stand-up to 10 minutes; no status speeches or speculative brainstorming.
+Sales review weekly: contacts, positive replies, calls, proposals, deposits, cash, objections.
+Delivery review weekly: milestones, QA failures, scope changes, client acceptance.
+Every decision ends with one owner and deadline in the existing dashboard.
+Cancel meetings with no decision, unblock, or measurable output.
