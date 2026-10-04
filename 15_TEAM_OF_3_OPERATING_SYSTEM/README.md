@@ -1,11 +1,7 @@
-# TEAM OF THREE
-- **A — Revenue:** prospecting, qualification, proposals, payments, client decisions.
-- **B — Delivery:** technical discovery, integration, build, deployment.
-- **C — QA/Proof:** acceptance tests, release checks, evidence, documentation.
-- A daily: 10 qualified first contacts + 10 follow-ups; log every next action.
-- B daily: ship one agreed milestone or expose the blocker.
-- C daily: finish one test/release/proof task and surface critical defects early.
-- Before build: scope + deposit (A), feasibility (B), acceptance tests (C).
-- Before handoff: tests pass (C), deployment verified (B), client acceptance/payment checked (A).
-- One task has one directly responsible owner; collaboration does not blur ownership.
-- If the team misses sales targets, all three do not retreat into coding.
+# Team of Three Operating System
+A owns revenue and client decisions; B owns engineering; C owns QA and proof.
+Read the role scorecards before assigning work.
+Use the project pod for every paid client engagement.
+Meetings exist to resolve blockers and make decisions, not perform progress theatre.
+Daily work follows the dashboard; one task has one accountable owner.
+Growth is earned through paid repeatable delivery, not headcount ambition.
