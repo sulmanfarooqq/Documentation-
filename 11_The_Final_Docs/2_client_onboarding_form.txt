@@ -1,42 +1,8 @@
-# CLIENT ONBOARDING — THREE-PERSON TEAM
-
-## Commercial
-- company
-- contact
-- decision maker
-- objective
-- deadline
-- payment status
-- scope
-- exclusions
-
-## Current process
-- trigger
-- people involved
-- tools
-- manual steps
-- failure points
-- volume/frequency
-
-## Technical
-- integrations
-- access method
-- environments
-- data
-- permissions
-- dependencies
-
-## Delivery
-- milestones
-- Definition of Done
-- tester
-- approver
-- communication channel
-- support boundary
-
-## Ownership
-A = client relationship + scope
-B = architecture + implementation
-C = QA + release evidence
-
-Never request passwords/secrets in plain chat.
+# Client Intake — Complete Before Build
+Business, decision-maker, timezone, billing details, and day-to-day workflow owner.
+Current lead source, destination CRM/sheet, tools, permissions, and existing process.
+Show one real example from lead arrival through assignment and follow-up; redact sensitive data.
+Define failure cases, response rules, opt-outs, data retention, and who may access records.
+Agree scope, exclusions, delivery date, acceptance tests, price, and 50% upfront payment.
+Client supplies lawful access and test data; never send passwords in plain text.
+Kickoff is complete only when payment, access, scope, and acceptance criteria are confirmed.
