@@ -1,42 +1,8 @@
-# READ THIS WHEN THREE ENGINEERS START HIDING IN WORK
-
-Three engineers can hide procrastination inside technical work.
-
-Examples:
-- rebuilding the website
-- creating another framework
-- comparing AI models
-- creating 50 demos
-- reorganizing GitHub
-- polishing branding
-
-Ask:
-
-> Does this action increase qualified demand, paid delivery, or verified proof this week?
-
-If no, stop.
-
-## A
-- identify 20 prospects
-- send 10 first contacts
-- send 10 follow-ups
-- run calls/proposals
-- update pipeline
-
-## B
-- select the highest-value committed delivery outcome
-- define the smallest build
-- implement
-- test
-- ship
-
-## C
-- define acceptance checks
-- QA
-- create proof/demo
-- document
-- remove one recurring delivery bottleneck
-
-The team does not need another strategy document.
-
-It needs evidence.
+# Read This Before You Plan Again
+Your bottleneck is not another framework; it is verified buyer conversations and paid delivery.
+For 14 days, sell one lead-follow-up fix to real-estate agencies with observable workflow gaps.
+Do not rotate niches, redesign the brand, add services, or build a product during the test.
+Every workday: 10 qualified first contacts, 10 follow-ups, and a recorded next action per lead.
+Build only after scope, acceptance criteria, access, and the upfront payment are confirmed.
+If the numbers fail, diagnose the funnel stage; do not hide behind more documentation.
+A document has value only when it changes today's action or prevents a delivery failure.
