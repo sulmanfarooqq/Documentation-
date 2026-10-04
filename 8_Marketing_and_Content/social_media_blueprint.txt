@@ -1,35 +1,7 @@
-# MARKETING — PROOF, NOT PERFORMANCE
-
-Three engineers create enough technical material naturally.
-
-The marketing job is to turn real work into trust.
-
-## Ownership
-
-A: commercial narrative and distribution.
-B: technical demo/architecture evidence.
-C: editing, case-study structure, QA of claims.
-
-## Weekly
-
-- 2 professional posts
-- 1 short technical/business demo
-- 1 portfolio/proof improvement
-
-## Content hierarchy
-
-1. verified client result
-2. real before/after workflow
-3. real demo
-4. technical lesson tied to a business problem
-5. generic educational content
-
-Never invent:
-- revenue
-- lead percentages
-- client logos
-- testimonials
-- case studies
-- performance claims
-
-Content should support sales, not replace it.
+# Lean Marketing
+Use one public demo showing a lead move from intake to routing, follow-up, and failure alert.
+Explain the workflow and its limits; do not claim fake clients, results, or guaranteed revenue.
+Publish one short teardown or demo weekly only after daily sales actions are complete.
+Every post supports the same buyer and offer, with one clear call to discuss the workflow.
+Ask permission before using client names, screenshots, data, or outcomes.
+Measure qualified inquiries, not likes; stop content tasks that displace outreach.
