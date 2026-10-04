@@ -1,11 +1,8 @@
-# EXECUTION SYSTEM
-- Every workday must produce commercial evidence or paid-delivery evidence.
-- A owns 10 qualified first contacts + 10 follow-ups daily.
-- B owns one committed delivery milestone daily.
-- C owns one QA, release, or proof milestone daily.
-- Use 25-minute work blocks; end each block with a shipped artifact or logged result.
-- A task needs one owner, one due date, and a definition of done.
-- Blockers older than one work block are surfaced to the owner and team.
-- No strategy/tool research while the day’s contact and delivery quotas are incomplete.
-- Review the conversion step that failed; do not change everything at once.
-- Start from `00_EXECUTION_DASHBOARD.txt`; workflow is `13_UML_Workflows.md`.
+# Execution System
+Purpose: turn the agency plan into repeatable daily actions.
+Read 01 once, then use 02 every workday.
+Use 03 to prevent endless planning and tool-switching.
+Use 04 for a short execution sprint; use 05 to enforce ownership.
+Core test: 10 qualified first contacts + 10 follow-ups per workday.
+All activity feeds 00_EXECUTION_DASHBOARD.txt; do not maintain duplicate scoreboards.
+The system works only when it creates buyer conversations and paid, accepted delivery.
