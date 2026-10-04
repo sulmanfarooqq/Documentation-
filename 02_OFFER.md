@@ -1,0 +1,11 @@
+# ONE OFFER
+- **Name:** 7-Day Lead Follow-up Fix.
+- **Buyer:** Small real-estate agency with inbound enquiries and manual/slow response or CRM handoffs.
+- **Pilot scope:** One lead source → one CRM/sheet → routing + one follow-up sequence + failure alerts + handoff notes.
+- **Exclude:** Full CRM migration, voice AI, multi-channel rebuild, custom dashboard, unlimited revisions, guaranteed sales.
+- **Price:** Quote after discovery; take 50% upfront and define acceptance criteria before work starts.
+- **Demo:** Use synthetic leads; show capture, assignment, follow-up, error handling, and human takeover.
+- **Proof rule:** State only observed facts; never invent response-time savings, conversion lifts, or client results.
+- **CTA:** “Is this a current problem? I can show the exact workflow in 10 minutes.”
+- **Change scope** only with written cost, deadline, and approval.
+- If buyer has no inbound volume, owner, urgency, or budget, do not pitch this offer.
