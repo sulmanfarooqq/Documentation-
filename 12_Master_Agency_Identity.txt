@@ -1,39 +1,11 @@
-# FLOW VELLO — MASTER AGENCY IDENTITY
-
-Flow Vello is a three-person professional software engineering team.
-
-## Positioning
-> We build better business systems, not dumb products or websites.
-
-## Services
-- Workflow Automation
-- WhatsApp & Messaging Automation
-- AI Customer Support
-- Custom AI Agents
-- Sales Automation
-- Executive Dashboards
-- Custom Software Development
-
-## Seats
-A — Revenue & Solutions
-B — Delivery & Automation
-C — Product, QA & Systems
-
-All three can engineer. Accountability remains separated.
-
-## Operating principle
-Problem -> Process -> Solution -> Proof -> Next step.
-
-The agency does not sell "AI transformation." It sells a specific workflow improvement that can be scoped, built, tested, and accepted.
-
-## Delivery
-Diagnose -> Scope -> Deposit -> Build -> QA -> Demo -> Handoff -> Support.
-
-## Truth rules
-No fake case studies.
-No fake metrics.
-No guaranteed ROI.
-No fake logos.
-No substantial unpaid implementation.
-
-Three engineers are a capacity advantage, not an excuse to run 50 offers simultaneously.
+# FLOW VELLO — IDENTITY
+- **Position:** We build better business systems, not dumb products or websites.
+- **Team:** Three engineers with separate Revenue (A), Delivery (B), and QA/Proof (C) ownership.
+- **First market test:** Real-estate teams with evidence of slow/manual inbound lead follow-up.
+- **First offer:** Fixed-scope 7-Day Lead Follow-up Fix; one workflow and one integration path.
+- **Promise:** Implement and test an agreed workflow; never promise unverified revenue results.
+- **Sales rule:** Public signal, verified problem, reachable decision-maker, clear next step.
+- **Delivery rule:** Written scope, acceptance criteria, deposit, test, handoff.
+- **Brand rule:** Use Flow Vello consistently; retire Techtox references from active client docs.
+- **Proof rule:** Use real results only, with client permission.
+- **Priority:** Conversations and paid delivery before branding, tooling, or more documentation.
