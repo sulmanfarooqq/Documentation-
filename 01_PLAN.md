@@ -1,0 +1,11 @@
+# 14-DAY PLAN
+- Sell one outcome: stop qualified inbound property leads going stale through slow/manual follow-up.
+- Buyer: owner/operations lead at a real-estate team visibly hiring sales staff, running lead ads, or expanding locations.
+- Deliver a paid, fixed-scope pilot in 7 days; no free custom builds and no promised revenue uplift.
+- Days 1–2: validate 30 trigger accounts, build one demo using synthetic data, prepare a one-page offer.
+- Days 3–7: contact 10 qualified buyers/day, follow up, run discovery, ask for a paid pilot.
+- Days 8–14: improve the message from objections; deliver any paid pilot; capture permission-based proof.
+- If 40 qualified contacts yield no positive replies, change signal/buyer/message—not send 1,000 more.
+- If calls happen but no deposits, review urgency, trust, scope, price, and decision-maker.
+- No niche switching, website redesign, or tool-shopping during the 14-day test.
+- Success is a deposit or clear market evidence; a deadline is not a guarantee.
