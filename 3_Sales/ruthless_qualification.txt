@@ -1,34 +1,8 @@
-# RUTHLESS QUALIFICATION — TEAM VERSION
-
-A owns qualification.
-
-A deal is worth engineering time only when there is evidence of:
-
-- real business pain
-- accessible decision maker
-- clear workflow
-- technical access/feasibility
-- meaningful urgency
-- acceptable scope
-- workable payment terms
-
-## Pause/disqualify
-
-Pause when:
-- the buyer wants unlimited free work,
-- nobody can approve,
-- requirements change every conversation,
-- required access cannot be provided,
-- deadline is technically impossible,
-- payment terms are unacceptable,
-- the problem is merely "nice to have."
-
-## Team protection
-
-Never let three engineers spend 20 hours discovering that a project was never commercially qualified.
-
-A owns the gate.
-
-B/C can reject technical impossibility.
-
-No one overrides the gate because a project sounds exciting.
+# Qualify Before You Propose
+Pain: what specifically fails, how often, and what does it cost in time or missed follow-up?
+Urgency: why solve it now rather than later?
+Authority: who owns the workflow and approves spending?
+Feasibility: which systems, access, data, and permissions are available?
+Budget: can the buyer pay for a scoped fix?
+Success: what observable test proves the workflow works?
+If pain, authority, feasibility, or budget is missing, do not force a proposal.
