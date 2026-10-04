@@ -1,11 +1,9 @@
-# TODAY — FLOW VELLO
-- A: find 10 signal-qualified real-estate accounts; send 10 personalized first contacts; follow up 10 due leads.
-- B: maintain one reusable Lead Follow-up Fix demo and scope only qualified opportunities.
-- C: verify demo paths, test failures, capture proof, and maintain release checklist.
-- Target buyer: real-estate owner/operations lead with inbound leads and visible manual follow-up.
-- Offer: one source → one destination → routing → one follow-up sequence → failure alerts.
-- Pipeline: Signal → Verify → Contact → Reply → Qualify → Call → Proposal → Deposit → Build → QA → Handoff.
-- No deposit, no committed build; no evidence, no outbound.
-- Track first contacts, positive replies, calls, proposals, deposits, shipped milestones, defects.
-- If no replies after 40 qualified contacts, change signal/buyer/message—not volume.
-- End each day with owner, next action, due date, and one shipped artifact.
+# Daily Execution Dashboard
+**Single goal:** win a paid, tightly scoped lead-follow-up project; do not build speculative features.
+A / Revenue: 10 researched first contacts, 10 follow-ups, update every lead stage, request deposits.
+B / Delivery: prove feasibility, document one milestone, flag blockers before they threaten scope.
+C / QA + Proof: define acceptance tests, test edge cases, record demo evidence, prepare handoff.
+Track: new contacts, positive replies, calls, proposals, deposits, cash collected, QA pass rate.
+No evidence or buyer pain = no outreach; no deposit = no custom implementation.
+40 qualified contacts with zero positive replies: change signal, buyer, or message—not just volume.
+Daily review: what shipped, what sold, blocker, owner, next action and deadline.
