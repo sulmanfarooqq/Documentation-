@@ -1,39 +1,7 @@
-# CONTENT IS NOT THE PIPELINE
-
-Three engineers can easily turn content into a comfortable substitute for selling.
-
-Do not.
-
-Until the agency has repeatable demand:
-1. outbound and referrals come first,
-2. sales conversations come second,
-3. delivery/proof comes third,
-4. content documents the proof.
-
-## Team ownership
-
-A owns the commercial calendar.
-C turns real delivery lessons into proof assets.
-B supplies technical demonstrations and architecture evidence.
-
-Nobody spends half a day making a "viral" post while qualified prospects are untouched.
-
-## Weekly minimum
-
-- 2 useful LinkedIn/professional posts
-- 1 short build/demo/proof asset
-- 1 portfolio or case-study improvement when real evidence exists
-
-Content must come from:
-- a real problem,
-- a real build,
-- a real lesson,
-- a real verified result.
-
-Never manufacture case studies, metrics, testimonials, or client logos.
-
-## Priority rule
-
-If pipeline activity is incomplete, content gets shortened.
-
-A sales message sent to a real buyer is more commercially useful than another generic AI post.
+# Content Is Not the Sales Pipeline
+Content is secondary until direct outreach proves the offer can attract buyer conversations.
+Publish one useful workflow teardown or short demo only when it supports the current offer.
+Every claim must be accurate, specific, and backed by evidence or labeled as a hypothesis.
+Do not polish posts while qualified leads receive no follow-up.
+Measure qualified conversations and attributable opportunities, not views alone.
+Reuse one piece across channels; stop formats that consume time without useful signals.
