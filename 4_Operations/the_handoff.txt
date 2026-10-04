@@ -1,42 +1,7 @@
-# HANDOFF — THREE-PERSON DELIVERY
-
-Before implementation begins, A converts the sale into a buildable scope.
-
-## Required
-
-- business problem
-- desired outcome
-- current workflow
-- future workflow
-- systems/tools
-- access requirements
-- deliverables
-- exclusions
-- Definition of Done
-- deadline
-- approver
-- failure behavior
-- support boundary
-
-## Ownership
-
-A: scope + acceptance
-B: architecture + implementation plan
-C: QA plan + release checklist
-
-## Definition of Done example
-
-A lead enters through the agreed channel -> data is captured -> required fields are validated -> CRM record is created -> notification is sent -> booking/follow-up occurs -> failure is logged -> human escalation works -> test evidence exists.
-
-"Build an AI agent" is not a Definition of Done.
-
-## Release gate
-
-No production handoff until C confirms:
-- happy path
-- edge cases
-- permissions
-- error handling
-- logging
-- client acceptance criteria
-- rollback/disable path where relevant
+# Delivery Handoff
+B documents workflow map, integrations, configuration, deployment, and recovery steps.
+C attaches acceptance-test results, edge cases, known limitations, and unresolved defects.
+A confirms client training, written acceptance, remaining payment, and support boundaries.
+Transfer ownership and access securely; remove team access when no longer needed.
+Record only client-approved facts that may be reused as proof.
+A project is not complete until the client can operate it and the agreed payment is settled.
