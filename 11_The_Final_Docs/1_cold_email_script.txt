@@ -1,24 +1,8 @@
-# COLD OUTREACH — TEAM VERSION
-
-Subject: Quick idea for [Company]
-
-Hi [Name],
-
-I noticed [specific observation].
-
-That can create [specific operational problem] when [context].
-
-We build small workflow/automation systems that can improve [specific process] without forcing a full platform replacement.
-
-I can send a short example of what this could look like for [Company].
-
-Worth sending?
-
-— [A Name]
-Flow Vello
-
-A owns sending.
-
-B/C can provide technical insight, but outreach does not become a three-person committee.
-
-Never fabricate personalization, results, testimonials, or case studies.
+# Evidence-Based First Contact
+Subject: Quick question about your lead follow-up
+Hi [Name] — I noticed [specific public signal and URL/date].
+When [lead source] arrives, how does your team make sure it reaches [CRM/person] and gets followed up?
+Flow Vello sets up a scoped workflow for routing, one follow-up sequence, and failure alerts.
+If this is a current gap, would a 15-minute workflow review next week be useful?
+No claims about guaranteed revenue; personalize the evidence and remove anything unverified.
+Follow up once after 3–4 business days with one useful observation; stop if asked.
