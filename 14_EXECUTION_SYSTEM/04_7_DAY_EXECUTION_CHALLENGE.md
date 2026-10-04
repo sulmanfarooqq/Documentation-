@@ -1,47 +1,8 @@
-# 7-DAY THREE-PERSON EXECUTION CHALLENGE
-
-Do not create a new strategy during these seven days.
-
-## Every day
-
-### A
-- 10 first contacts
-- 10 follow-ups
-- pipeline updated
-- calls/proposals as available
-
-### B
-- one committed delivery milestone
-- one technical blocker removed
-
-### C
-- QA/proof milestone
-- one process or product improvement
-
-### Company
-- one shipped artifact minimum
-
-## Day 1
-Choose one buyer/workflow and define the smallest demo.
-
-## Day 2
-A builds a 20-prospect list. B/C provide technical personalization only where useful.
-
-## Day 3
-A sends 10 first contacts. B ships the demo. C QA's it.
-
-## Day 4
-A follows up and runs calls. B/C improve based on real objections.
-
-## Day 5
-Turn the strongest real objection into an offer improvement.
-
-## Day 6
-Run a real discovery call or realistic mock. Record decisions and next actions.
-
-## Day 7
-Review replies, objections, calls, proposals, cash, and delivery quality.
-
-Change the system from evidence, not imagination.
-
-If a day fails, continue. Do not restart with another planning week.
+# 7-Day Execution Challenge
+Day 1: finalize offer, scope boundaries, acceptance checklist, and one reusable demo.
+Days 2–6: each day send 10 evidence-based first contacts and 10 follow-ups.
+Daily: log positive replies, qualified calls, proposals, objections, and next actions.
+Use calls to map workflow, urgency, decision-maker, systems, access, and budget.
+Send a written proposal only when pain, feasibility, buyer, and decision process are clear.
+Build only after signed scope and upfront payment; unpaid demos stay generic and small.
+Day 7: inspect funnel data, keep what works, and change one weak variable.
