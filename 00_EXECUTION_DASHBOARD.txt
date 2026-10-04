@@ -3,43 +3,61 @@ FLOW VELLO — 3-PERSON EXECUTION DASHBOARD
 PRIMARY RULE
 Three engineers without ownership become three people waiting for each other.
 
+COMMERCIAL RULE
+Do not hunt random businesses.
+Find evidence of a current problem, verify it, identify the buyer, then contact them.
+
 SEATS
 A = Revenue & Solutions Lead
 B = Delivery & Automation Lead
 C = Product, QA & Systems Lead
 
 DAILY COMPANY INPUTS
-A: 10+ new personalized contacts + 10+ follow-ups
-B: committed delivery milestone
-C: QA/proof/system milestone
-
-DAILY COMPANY OUTPUTS
-- conversations
-- qualified opportunities
-- proposals
-- deposits/cash
-- shipped client work
-- QA-approved releases
-- proof/assets
+A: 20 trigger accounts reviewed -> 10 qualified first contacts + 10 follow-ups
+B: committed delivery milestone OR technical validation for a qualified opportunity
+C: QA/proof/system milestone OR evidence validation for a qualified opportunity
 
 PIPELINE
-Lead -> Contacted -> Replied -> Qualified -> Call -> Proposal -> Deposit -> Onboarding -> Build -> QA -> Demo -> Handoff -> Proof -> Repeat/Referral
+Signal Found -> Evidence Verified -> Buyer Identified -> Contacted -> Replied -> Qualified -> Call -> Proposal -> Deposit -> Onboarding -> Build -> QA -> Demo -> Handoff -> Proof -> Repeat/Referral
+
+SIGNAL SOURCES
+1. Explicit project/work requests
+2. Relevant hiring
+3. Visible operational problems
+4. Growth/event triggers
+5. Warm referrals
+
+SIGNAL SCORE
++3 direct demand
++2 strong trigger
++2 visible problem
++1 ICP fit
++1 reachable buyer
+-3 no evidence
+-3 no budget/scale fit
+-2 wrong buyer
+
+8-10 = HOT
+5-7 = WARM
+0-4 = COLD / discard
 
 RED FLAGS
-- 0 outreach
-- 0 follow-ups
+- 0 trigger evidence
+- generic outreach
+- random niche switching
+- speculative demos
 - coding without scoped work
 - proposal without qualification
 - work started without payment terms
 - blocked task >24h
 - production change without QA
 - three people solving the same task
-- more strategy docs while execution quota is incomplete
+- more strategy docs while hunting quota is incomplete
 
 END-OF-DAY
-A logs pipeline.
-B logs delivery.
-C logs QA/proof.
+A logs signals, contacts, replies, calls, proposals and cash.
+B logs delivery and technical validations.
+C logs QA, proof and evidence checks.
 All three record tomorrow's first physical action.
 
 REVENUE IS NOT "LIKELY", "PROMISED", OR "INVOICED".
