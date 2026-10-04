@@ -1,42 +1,8 @@
-# CLIENT MANAGEMENT — THREE-PERSON TEAM
-
-Every client has one accountable owner: A.
-
-B owns delivery execution.
-C owns QA/release evidence.
-
-The client should not have to ask three engineers for status.
-
-## Single source of truth
-
-Track:
-- scope
-- milestones
-- owner
-- deadline
-- status
-- blockers
-- approvals
-- access
-- decisions
-- links
-- change requests
-
-## Communication
-
-A sends the client-facing status update.
-
-Internal format:
-**Done / Next / Blocked / Risk / Decision needed**
-
-## Escalation
-
-- Technical blocker -> B
-- Quality/release blocker -> C
-- Scope/payment/client decision -> A
-
-Escalate within the same working day.
-
-## Rule
-
-The client experiences Flow Vello as one company, not three freelancers in a group chat.
+# Client Management
+One named client approver; all requirements and decisions are written in one place.
+A owns communication, expectation-setting, change requests, and acceptance.
+Weekly update: completed work, evidence, next milestone, risk, and decision needed.
+Scope changes require revised price, timeline, and written approval before work.
+Protect client data; use least-privilege access and approved credential sharing.
+Escalate delays and failures early; never conceal defects or promise impossible dates.
+Close with acceptance, final payment, documentation, access transfer, and feedback permission.
