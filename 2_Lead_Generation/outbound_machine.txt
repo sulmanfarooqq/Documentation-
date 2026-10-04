@@ -1,63 +1,133 @@
-# THREE-PERSON OUTBOUND MACHINE
+# THREE-PERSON OUTBOUND MACHINE — SIGNAL FIRST
+
+## Objective
+
+Do not maximize messages.
+
+Maximize qualified conversations from accounts that already show evidence of need.
 
 ## One commercial owner
 
 A owns outbound.
 
-B and C contribute technical observations, demos, and niche research only when needed.
+B and C support qualified opportunities with technical evidence, demos, feasibility, and proof.
 
-This prevents the classic team failure:
+"Everyone handles sales" is forbidden.
 
-"Everyone is responsible for sales" = nobody is responsible.
-
-## 14-day test
+## 7-day commercial test
 
 Choose:
-- one buyer type,
-- one painful workflow,
-- one offer,
-- one primary channel.
 
-Do not run five niches because three people are available.
+- one buyer type
+- one painful workflow
+- one offer
+- one primary hunting lane
+
+The 50-niche library is a menu.
+It is not permission to run 50 campaigns.
+
+## Prospect priority
+
+### Tier 1 — explicit demand
+
+The company/person has already requested the work.
+
+Respond directly.
+
+### Tier 2 — stacked signals
+
+At least two independent signals:
+
+- hiring + visible process problem
+- growth event + workflow bottleneck
+- technology signal + relevant hiring
+- public problem + reachable decision-maker
+
+### Tier 3 — one weak signal
+
+Do not spend deep research time.
+Monitor or discard.
 
 ## Daily A quota
 
-- 20 qualified prospects researched
+- 20 trigger accounts reviewed
+- 10 accounts fully qualified
 - 10 personalized first contacts
 - 10 follow-ups
-- 2 direct asks for a short call
-- all activity logged
+- all outcomes logged
 
-B/C spend at most 20–30 minutes helping A with technical personalization when useful.
+The goal is not 20 generic messages.
+It is 10 evidence-backed contacts.
 
-## Prospect signal
+## 5-minute research rule
 
-Look for:
-- manual lead handling
-- WhatsApp-heavy sales
-- repetitive support
-- spreadsheets between systems
-- disconnected CRM
-- slow response
-- repeated data entry
-- booking/admin bottlenecks
-- visible software/process gaps
+For each account identify:
 
-## Message
+1. trigger
+2. evidence
+3. likely problem
+4. buyer
+5. matching Flow Vello offer
 
-Observation -> operational problem -> relevant outcome -> low-friction CTA.
+If these cannot be identified quickly, move on.
 
-Do not lead with "we are a team of AI experts."
+## Message structure
+
+Signal -> Observation -> Possible impact -> Relevant capability -> Small CTA
+
+Example:
+
+> Saw you're hiring for sales/operations while handling inbound inquiries through [channel]. That can create a lot of manual follow-up. We build the CRM + messaging workflow that captures, routes and follows up those leads automatically. If this is already on your roadmap, worth a 15-minute look?
+
+Never pretend the problem is proven if it is only a hypothesis.
+
+## B's role
+
+B validates:
+
+- technical feasibility
+- integrations
+- scope
+- delivery risk
+
+B does not build speculative custom demos for weak accounts.
+
+## C's role
+
+C validates:
+
+- evidence
+- demo quality
+- QA
+- proof
+- reusable assets
+
+C does not turn prospecting into a product-development project.
 
 ## Pipeline quality
 
 Track:
-Lead / Contacted / Replied / Qualified / Call / Proposal / Won / Lost / Nurture.
+
+Signal Found / Evidence Verified / Buyer Identified / Contacted / Replied / Qualified / Call / Proposal / Won / Lost / Nurture.
 
 A owns the truth of this board.
+
+## Conversion diagnosis
+
+If:
+
+No replies -> inspect list, signal, buyer, message, channel.
+
+Replies but no calls -> inspect problem/offer/CTA.
+
+Calls but no proposals -> inspect qualification and urgency.
+
+Proposals but no deposits -> inspect scope, trust, pricing, decision process.
+
+Do not respond to every failure by increasing message volume.
 
 ## Hard rule
 
 More engineers do not justify more outreach complexity.
 
-The commercial system stays simple until the market gives evidence for expansion.
+Better evidence beats more volume.
