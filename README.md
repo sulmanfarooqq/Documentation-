@@ -1,11 +1,10 @@
-# FLOW VELLO — OPERATING PLAYBOOK
-- **Position:** We build better business systems, not dumb products or websites.
-- **Goal:** Win one paid project, deliver it well, turn it into proof, repeat.
-- **Market for 14 days:** US/UK real-estate teams with visible lead-response or CRM follow-up gaps.
-- **Offer:** 7-day Lead Follow-up Fix: capture, route, and follow up inbound leads; one workflow, one integration path.
-- **Hunting edge:** Contact only accounts with a public trigger or visible process gap; include evidence and a tailored 60-second workflow audit.
-- **A owns revenue; B owns implementation; C owns QA, proof, and release. One DRI per outcome.
-- **Pipeline:** Signal → Verified → Contacted → Replied → Qualified → Call → Paid Pilot → Build → QA → Handoff → Proof.
-- **Daily floor:** 10 researched contacts, 10 follow-ups, 1 buyer conversation target, 1 shipped delivery/proof artifact.
-- **Reality:** No method guarantees clients in days; measure replies, calls, deposits, and delivery—not docs, tools, or busywork.
-- Start here: `01_PLAN.md`; diagrams: `08_UML.md`.
+# Flow Vello | Zero-to-First-$1,000 Operating System
+We build better business systems, not disposable websites.
+**14-day test:** US/UK real-estate agencies with visible lead-follow-up gaps.
+**Offer:** 7-Day Lead Follow-up Fix; one lead source, one CRM/sheet, routing, one follow-up, failure alerts.
+No free custom builds; discovery first, written scope, 50% upfront, acceptance tests before build.
+A = revenue and client decisions; B = engineering and deployment; C = QA, proof, handoff.
+Daily: 10 researched first contacts + 10 follow-ups; one delivery milestone; one QA/proof milestone.
+Pipeline: Signal → Verify → Contact → Qualify → Call → Proposal → Deposit → Build → QA → Handoff.
+Review conversion weekly; change the message or buyer when evidence says it is failing.
+Start at 00_EXECUTION_DASHBOARD.txt; all plans serve client conversations and paid delivery.
