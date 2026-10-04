@@ -1,35 +1,8 @@
-# DEVELOPER HANDOFF SOP — INTERNAL
-
-A sale becomes a build only after qualification and agreed payment terms.
-
-## A -> B/C
-A provides:
-- business objective
-- exact workflow
-- approved deliverables
-- exclusions
-- acceptance criteria
-- deadline
-- client dependencies
-- approved access
-- known risks
-
-## B owns
-- architecture
-- implementation plan
-- integration
-- deployment
-
-## C owns
-- test plan
-- acceptance checks
-- QA
-- release evidence
-- documentation
-
-## Review rule
-No person should be the only reviewer of their own critical production change.
-
-If outside contractors are later added, they receive bounded tasks with a Definition of Done and evidence requirements.
-
-The three-person team owns the client promise and final QA.
+# Build and Handoff SOP
+A locks scope, exclusions, price, payment, and the client's final decision-maker.
+B confirms technical feasibility, credentials method, data flow, rollback, and deployment plan.
+C writes acceptance tests and edge cases before implementation begins.
+Flow: approved scope → deposit → access → build → test → client review → deploy → handoff.
+Test duplicate leads, missing fields, API failure, retries, opt-outs, permissions, and logs.
+C records test evidence; B verifies production; A obtains written acceptance and balance payment.
+Deliver setup notes, owner instructions, limitations, recovery steps, and access-transfer checklist.
