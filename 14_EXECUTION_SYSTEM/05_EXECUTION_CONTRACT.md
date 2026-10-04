@@ -1,36 +1,8 @@
-# THREE-PERSON EXECUTION CONTRACT
-
-We are three engineers.
-
-That is not an excuse to avoid sales.
-
-A owns revenue.
-B owns delivery.
-C owns quality/product/systems.
-
-We will not:
-- hide in coding
-- confuse planning with progress
-- build before qualification
-- start substantial unpaid work
-- let scope creep silently
-- release without QA
-- create strategy documents instead of shipping
-
-We accept:
-- rejection
-- imperfect demos
-- bugs
-- difficult calls
-- unclear requirements
-- small first deals
-- evidence that an idea is wrong
-
-## Contract
-
-Every working day, each person ships something observable.
-
-A signature: __________
-B signature: __________
-C signature: __________
-Date: __________
+# Team Execution Contract
+We judge progress by qualified conversations, deposits, reliable delivery, and client outcomes—not busywork.
+Every task has one owner, a visible result, and a deadline.
+No task is complete without evidence: sent message, working test, client approval, or deployed change.
+No custom build starts without scope, access plan, acceptance criteria, and deposit.
+Raise risks early; do not hide missed deadlines or promise unverified outcomes.
+Review numbers weekly and stop work that produces no sales or delivery value.
+Do not create new files or systems when existing workflows can support the need.
