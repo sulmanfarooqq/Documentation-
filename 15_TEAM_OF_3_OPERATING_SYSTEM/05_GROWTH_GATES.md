@@ -1,47 +1,8 @@
-# GROWTH GATES
-
-## Gate 1 — Demand
-Evidence:
-- buyer conversations
-- qualified opportunities
-- paid projects
-
-If absent: improve targeting, offer, outreach, and sales.
-
-## Gate 2 — Delivery
-Evidence:
-- projects delivered on time
-- predictable scope
-- QA process
-- reusable implementation patterns
-
-If absent: fix delivery before increasing sales volume.
-
-## Gate 3 — Repeatability
-Evidence:
-- same workflow sold more than once
-- standard scope
-- onboarding
-- QA
-- proof
-
-If absent: do not build a large company structure.
-
-## Gate 4 — Capacity
-Evidence:
-- sold work exceeds available capacity
-- bottleneck is repeatable
-- SOP exists
-- economics support delegation
-
-Only then hire.
-
-## Gate 5 — Expansion
-Evidence:
-- one offer works
-- next offer is pulled by actual clients
-- delivery quality remains stable
-
-Then expand.
-
-Never skip a gate because the team is technically capable.
+# Growth Gates
+Do not hire because the team feels busy; hire only against repeatable paid demand.
+Gate 1: one client pays and accepts a narrowly scoped delivery.
+Gate 2: repeat the offer and document delivery time, margin, defects, and objections.
+Gate 3: maintain qualified pipeline and predictable deposits before adding fixed costs.
+Gate 4: delegate a repeatable task with a checklist and measurable quality bar.
+If delivery slips, reduce scope and fix QA before increasing sales volume.
+Revenue, cash collected, retention, and reliable delivery outrank vanity metrics.
