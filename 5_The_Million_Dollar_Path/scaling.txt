@@ -1,71 +1,8 @@
-# SCALING — THREE ENGINEERS
-
-Do not confuse team size with business maturity.
-
-Three engineers can support more delivery capacity than one person, but the company still needs demand.
-
-## Stage 0 — Prove demand
-
-Goal:
-- first paid projects
-- one repeatable offer
-- one reliable sales channel
-- proof
-
-Team:
-A = revenue + solutions
-B = delivery
-C = product/QA
-
-Everyone can help. One owner per function.
-
-## Stage 1 — Repeat
-
-Once an offer sells repeatedly:
-- standardize discovery
-- standardize proposal
-- standardize onboarding
-- standardize build
-- standardize QA
-- standardize handoff
-- collect proof
-
-## Stage 2 — Increase capacity
-
-Only after sustained sold work:
-- delegate repeatable implementation,
-- automate internal operations,
-- add contractors/specialists,
-- protect A's sales time.
-
-## Stage 3 — Build a company
-
-Possible structure:
-- commercial/client function
-- delivery function
-- technical/product function
-- project/account coordination
-- specialist bench
-
-Do not build this org chart before the revenue requires it.
-
-## Hiring trigger
-
-Hire when:
-1. work is already sold,
-2. bottleneck is identified,
-3. task is repeatable,
-4. Definition of Done exists,
-5. QA exists,
-6. unit economics support the hire.
-
-Never hire to feel bigger.
-
-## Revenue reality
-
-A target such as "$10k/month" is a planning target, not evidence.
-
-Track:
-cash collected, gross margin, delivery hours, sales activity, pipeline conversion, repeat business, and client concentration.
-
-Growth that creates chaos is not operational maturity.
+# Scale Only What Works
+Ignore million-dollar fantasies until the first offer sells repeatedly at a healthy margin.
+First prove one buyer segment, one offer, reliable delivery checklist, and collected cash.
+Track acquisition effort, close rate, delivery hours, defects, gross margin, and repeat demand.
+Standardize recurring work before hiring or adding fixed costs.
+Raise prices only with stronger proof, clearer value, or higher delivery complexity.
+Expand to a second niche only after the first has repeatable sales and delivery.
+Scale systems customers pay for; kill vanity work.
