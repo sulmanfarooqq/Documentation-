@@ -1,6 +1,9 @@
-# MASTER DOCUMENTATION
+OUTBOUND MACHINE
 
-This is the complete, A-to-Z Operating System for Techtox. Every file has been specifically planned and updated. Start at 14_EXECUTION_SYSTEM/01_START_HERE_TODAY.md.
+1. Scrape 50 leads on Apollo.
+2. Record 30 Looms.
+3. Send 30 emails with Mailtrack.
+4. Follow up on Day 3 and Day 6.
 
 --- 3-MAN TEAM DISTRIBUTION ---
 PERSON 1 (Sulman - The Pitch): Record the Loom showing the custom mockup and custom bot.

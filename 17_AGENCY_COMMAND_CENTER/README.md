@@ -1,8 +1,9 @@
-# Agency Command Center
-This repository is the operating system for Flow Vello's first repeatable paid offer.
-Source of truth for daily numbers: 00_EXECUTION_DASHBOARD.txt.
-Brand and scope: 12_Master_Agency_Identity.txt; workflow: 13_UML_Workflows.md.
-Client acquisition lives in 16_CLIENT_HUNTING_SYSTEM; team ownership in 15_TEAM_OF_3_OPERATING_SYSTEM.
-Execution habits live in 14_EXECUTION_SYSTEM; client templates live in 11_The_Final_Docs.
-Keep existing files to 5–10 lines; do not create duplicate plans or dashboards.
-If guidance conflicts, prioritize the current offer, signed scope, client safety, and evidence.
+# COMMAND CENTER
+
+This is your Trello board and your WhatsApp group. Keep it clean. Keep it focused. Money in, Bots out.
+
+--- 3-MAN TEAM DISTRIBUTION ---
+PERSON 1 (Sulman - The Pitch): Record the Loom showing the custom mockup and custom bot.
+PERSON 2 (Frontend - The Bait): Build a custom, beautiful 1-page mockup of the target's website.
+PERSON 3 (Backend - The Hook): Build a custom, working Voiceflow bot trained on the target's business.
+ACCOUNTABILITY: You are an Assembly Line. No one waits. Everyone hunts.

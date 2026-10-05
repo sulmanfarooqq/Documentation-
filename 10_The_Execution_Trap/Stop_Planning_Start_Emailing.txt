@@ -1,0 +1,9 @@
+THE EXECUTION TRAP
+
+You fail because you plan too much. The trap is believing that once your website is perfect, clients will come. They won't. The only way out of the trap is cold outreach. Sulman must send 30 Looms a day. Person B and C must build dummy bots to practice until a client pays.
+
+--- 3-MAN TEAM DISTRIBUTION ---
+PERSON 1 (Sulman - The Pitch): Send the custom videos showcasing what the engineers built.
+PERSON 2 (Frontend - The Bait): Redesign the prospect's homepage before Sulman emails them.
+PERSON 3 (Backend - The Hook): Build a custom Voiceflow demo bot for the prospect before Sulman emails them.
+ACCOUNTABILITY: All 3 of you hunt. If one stops, the assembly line breaks.

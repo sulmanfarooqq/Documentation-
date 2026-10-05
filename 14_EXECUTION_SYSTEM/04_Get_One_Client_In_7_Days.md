@@ -1,6 +1,7 @@
-# MASTER DOCUMENTATION
+# 7 DAY CHALLENGE
 
-This is the complete, A-to-Z Operating System for Techtox. Every file has been specifically planned and updated. Start at 14_EXECUTION_SYSTEM/01_START_HERE_TODAY.md.
+Goal: 1 Paying Client.
+Mechanics: Send 30 videos a day for 7 days (210 videos total). With a 1% conversion rate, you will get 2 clients. It is mathematically impossible to fail if you do the work.
 
 --- 3-MAN TEAM DISTRIBUTION ---
 PERSON 1 (Sulman - The Pitch): Record the Loom showing the custom mockup and custom bot.

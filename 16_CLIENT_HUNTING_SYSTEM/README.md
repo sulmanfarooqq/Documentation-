@@ -1,8 +1,9 @@
-# Client Hunting System
-Hunt for evidence of a workflow problem, not merely businesses that might need software.
-Initial segment: US/UK real-estate agencies with observable lead-handling friction.
-Initial offer: scoped Lead Follow-up Fix, after discovery and feasibility checks.
-Use signal sources, match one signal to one offer, then record every contact in the hunt board.
-Daily target: 10 qualified first contacts and 10 follow-ups.
-Use the sprint to test conversion; no mass spam or unsupported claims.
-The objective is a qualified conversation and paid deposit, not a large spreadsheet.
+# CLIENT HUNTING ROOT
+
+If you don't hunt, you starve. Read 04_7_DAY_CLIENT_SPRINT.md.
+
+--- 3-MAN TEAM DISTRIBUTION ---
+PERSON 1 (Sulman - The Pitch): Record the Loom showing the custom mockup and custom bot.
+PERSON 2 (Frontend - The Bait): Build a custom, beautiful 1-page mockup of the target's website.
+PERSON 3 (Backend - The Hook): Build a custom, working Voiceflow bot trained on the target's business.
+ACCOUNTABILITY: You are an Assembly Line. No one waits. Everyone hunts.

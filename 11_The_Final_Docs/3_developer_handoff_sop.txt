@@ -1,8 +1,0 @@
-# Build and Handoff SOP
-A locks scope, exclusions, price, payment, and the client's final decision-maker.
-B confirms technical feasibility, credentials method, data flow, rollback, and deployment plan.
-C writes acceptance tests and edge cases before implementation begins.
-Flow: approved scope → deposit → access → build → test → client review → deploy → handoff.
-Test duplicate leads, missing fields, API failure, retries, opt-outs, permissions, and logs.
-C records test evidence; B verifies production; A obtains written acceptance and balance payment.
-Deliver setup notes, owner instructions, limitations, recovery steps, and access-transfer checklist.

@@ -1,6 +1,10 @@
-# MASTER DOCUMENTATION
+# SIGNAL TO OFFER
 
-This is the complete, A-to-Z Operating System for Techtox. Every file has been specifically planned and updated. Start at 14_EXECUTION_SYSTEM/01_START_HERE_TODAY.md.
+Signal: Website has no chat widget.
+Offer: 'I will build you an AI receptionist for $300.'
+
+Signal: Website has a dumb, generic 'Contact Us' form.
+Offer: 'I will replace your dead form with an AI that books appointments instantly.'
 
 --- 3-MAN TEAM DISTRIBUTION ---
 PERSON 1 (Sulman - The Pitch): Record the Loom showing the custom mockup and custom bot.

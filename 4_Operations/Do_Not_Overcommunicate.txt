@@ -1,6 +1,6 @@
-# MASTER DOCUMENTATION
+CLIENT MANAGEMENT
 
-This is the complete, A-to-Z Operating System for Techtox. Every file has been specifically planned and updated. Start at 14_EXECUTION_SYSTEM/01_START_HERE_TODAY.md.
+Do not overcommunicate. Send an onboarding form. Tell them when it is live. That's it. You are selling a tool, not a consultation.
 
 --- 3-MAN TEAM DISTRIBUTION ---
 PERSON 1 (Sulman - The Pitch): Record the Loom showing the custom mockup and custom bot.

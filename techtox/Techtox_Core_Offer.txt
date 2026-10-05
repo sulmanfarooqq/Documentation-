@@ -1,6 +1,6 @@
-# MASTER DOCUMENTATION
+TECHTOX MASTER PROFILE
 
-This is the complete, A-to-Z Operating System for Techtox. Every file has been specifically planned and updated. Start at 14_EXECUTION_SYSTEM/01_START_HERE_TODAY.md.
+We are a 3-man AI automation agency. We build AI Booking Receptionists for local businesses. We charge $300 upfront and $50/month.
 
 --- 3-MAN TEAM DISTRIBUTION ---
 PERSON 1 (Sulman - The Pitch): Record the Loom showing the custom mockup and custom bot.

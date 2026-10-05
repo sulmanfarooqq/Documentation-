@@ -1,9 +1,0 @@
-# Flow Vello — Operating Identity
-Position: we build better business systems, not dumb products or websites.
-Initial buyer: US/UK real-estate agency with visible lead-routing or follow-up friction.
-Initial offer: 7-Day Lead Follow-up Fix; one source, one destination, routing, one follow-up, failure alerts.
-Do not promise lead volume, revenue uplift, or a 7-day result before feasibility and access are confirmed.
-A owns sales and client decisions; B owns engineering; C owns QA, proof, and handoff.
-Quote after discovery; define scope and acceptance criteria; collect 50% before build.
-Use Flow Vello branding consistently; retire Techtox references from active sales materials.
-Services page: https://flowvello.netlify.app/services

@@ -1,6 +1,12 @@
-# MASTER DOCUMENTATION
+# DAILY EXECUTION CARD
 
-This is the complete, A-to-Z Operating System for Techtox. Every file has been specifically planned and updated. Start at 14_EXECUTION_SYSTEM/01_START_HERE_TODAY.md.
+Print this out.
+[ ] 9:00 AM: 15-minute team standup.
+[ ] 10:00 AM: 15 Loom videos recorded.
+[ ] 12:00 PM: 15 Loom videos sent.
+[ ] 2:00 PM: 15 more Loom videos recorded.
+[ ] 4:00 PM: 15 more Loom videos sent.
+[ ] 5:00 PM: Check Mailtrack for opens.
 
 --- 3-MAN TEAM DISTRIBUTION ---
 PERSON 1 (Sulman - The Pitch): Record the Loom showing the custom mockup and custom bot.

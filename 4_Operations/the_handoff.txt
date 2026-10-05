@@ -1,7 +1,0 @@
-# Delivery Handoff
-B documents workflow map, integrations, configuration, deployment, and recovery steps.
-C attaches acceptance-test results, edge cases, known limitations, and unresolved defects.
-A confirms client training, written acceptance, remaining payment, and support boundaries.
-Transfer ownership and access securely; remove team access when no longer needed.
-Record only client-approved facts that may be reused as proof.
-A project is not complete until the client can operate it and the agreed payment is settled.

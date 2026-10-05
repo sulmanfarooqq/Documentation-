@@ -1,6 +1,11 @@
-# MASTER DOCUMENTATION
+EXECUTION DASHBOARD
 
-This is the complete, A-to-Z Operating System for Techtox. Every file has been specifically planned and updated. Start at 14_EXECUTION_SYSTEM/01_START_HERE_TODAY.md.
+Metrics to track daily:
+- Looms Sent: 
+- Emails Opened:
+- Replies:
+- Invoices Paid:
+If Looms Sent is 0, the rest do not matter.
 
 --- 3-MAN TEAM DISTRIBUTION ---
 PERSON 1 (Sulman - The Pitch): Record the Loom showing the custom mockup and custom bot.

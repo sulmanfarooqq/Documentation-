@@ -1,6 +1,8 @@
-# MASTER DOCUMENTATION
+# DAILY WORKFLOW
 
-This is the complete, A-to-Z Operating System for Techtox. Every file has been specifically planned and updated. Start at 14_EXECUTION_SYSTEM/01_START_HERE_TODAY.md.
+- Morning: Prospecting (Sulman) / Practice Builds (Team).
+- Afternoon: Outreach (Sulman) / Tool Mastery (Team).
+- Evening: Follow-ups (Sulman) / Integration (Team).
 
 --- 3-MAN TEAM DISTRIBUTION ---
 PERSON 1 (Sulman - The Pitch): Record the Loom showing the custom mockup and custom bot.

@@ -1,6 +1,6 @@
-# MASTER DOCUMENTATION
+TECHTOX BRAND GUIDELINES
 
-This is the complete, A-to-Z Operating System for Techtox. Every file has been specifically planned and updated. Start at 14_EXECUTION_SYSTEM/01_START_HERE_TODAY.md.
+Colors: Red and Black. Font: Sora. Logo: Verified icon. That is all you need to know. Stop tweaking the CSS and start selling.
 
 --- 3-MAN TEAM DISTRIBUTION ---
 PERSON 1 (Sulman - The Pitch): Record the Loom showing the custom mockup and custom bot.

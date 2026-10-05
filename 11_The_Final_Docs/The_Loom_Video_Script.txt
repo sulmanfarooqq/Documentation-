@@ -1,6 +1,15 @@
-# MASTER DOCUMENTATION
+COLD EMAIL SCRIPT
 
-This is the complete, A-to-Z Operating System for Techtox. Every file has been specifically planned and updated. Start at 14_EXECUTION_SYSTEM/01_START_HERE_TODAY.md.
+Subject: your website (quick question)
+
+Hey [Name],
+
+I was looking at your site and noticed you don't have an instant booking assistant. I made a quick 45-second video showing how you're losing leads and how my team can fix it by tomorrow for $300.
+
+Watch it here: [Loom Link]
+
+Best,
+Sulman
 
 --- 3-MAN TEAM DISTRIBUTION ---
 PERSON 1 (Sulman - The Pitch): Record the Loom showing the custom mockup and custom bot.

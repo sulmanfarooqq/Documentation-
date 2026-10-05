@@ -1,8 +1,0 @@
-# Client Management
-One named client approver; all requirements and decisions are written in one place.
-A owns communication, expectation-setting, change requests, and acceptance.
-Weekly update: completed work, evidence, next milestone, risk, and decision needed.
-Scope changes require revised price, timeline, and written approval before work.
-Protect client data; use least-privilege access and approved credential sharing.
-Escalate delays and failures early; never conceal defects or promise impossible dates.
-Close with acceptance, final payment, documentation, access transfer, and feedback permission.

@@ -1,6 +1,10 @@
-# MASTER DOCUMENTATION
+# PROJECT POD
 
-This is the complete, A-to-Z Operating System for Techtox. Every file has been specifically planned and updated. Start at 14_EXECUTION_SYSTEM/01_START_HERE_TODAY.md.
+When a client pays, the Pod activates.
+1. Sulman posts in WhatsApp: 'CLIENT CLOSED. $300 COLLECTED.'
+2. Person C begins Voiceflow immediately.
+3. Person B requests CMS login.
+4. Pod dissolves when client approves the live widget.
 
 --- 3-MAN TEAM DISTRIBUTION ---
 PERSON 1 (Sulman - The Pitch): Record the Loom showing the custom mockup and custom bot.

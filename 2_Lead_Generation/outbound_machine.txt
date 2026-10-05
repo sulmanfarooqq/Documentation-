@@ -1,8 +1,0 @@
-# Outbound Operating Rules
-Build a small verified list; each lead needs a signal, source URL, buyer, and next action.
-Send 10 personalized first contacts and 10 follow-ups each workday.
-Lead with the observed workflow issue and ask a low-friction question; avoid generic AI pitches.
-Follow up once after 3–4 business days; stop after a clear no or opt-out.
-Record every response and loss reason; never invent personalization or prior contact.
-After 40 qualified contacts with no positive replies, change the message, buyer, or signal.
-Do not scale volume until replies and delivery capacity justify it.

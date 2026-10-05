@@ -1,7 +1,0 @@
-# Legacy Profile — Superseded
-This Techtox profile is archived operationally; Flow Vello is the active agency brand.
-Current buyer: real-estate agencies with verified lead-routing or follow-up friction.
-Current offer: scoped Lead Follow-up Fix with routing, one follow-up, and failure alerts.
-Current services page: https://flowvello.netlify.app/services
-Do not send this legacy profile to prospects or maintain duplicate positioning.
-All current sales decisions follow 12_Master_Agency_Identity.txt.

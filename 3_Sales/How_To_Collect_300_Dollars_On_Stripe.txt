@@ -1,6 +1,6 @@
-# MASTER DOCUMENTATION
+CLOSING THE DEAL
 
-This is the complete, A-to-Z Operating System for Techtox. Every file has been specifically planned and updated. Start at 14_EXECUTION_SYSTEM/01_START_HERE_TODAY.md.
+When they reply 'I am interested', DO NOT ask for a Zoom call. Reply: 'Great. Here is the Stripe link for the $300 setup fee. Once paid, my team will have it live in 24 hours. If it doesn't work, I refund you.'
 
 --- 3-MAN TEAM DISTRIBUTION ---
 PERSON 1 (Sulman - The Pitch): Record the Loom showing the custom mockup and custom bot.

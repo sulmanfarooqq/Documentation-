@@ -1,6 +1,9 @@
-# MASTER DOCUMENTATION
+DEVELOPER HANDOFF SOP
 
-This is the complete, A-to-Z Operating System for Techtox. Every file has been specifically planned and updated. Start at 14_EXECUTION_SYSTEM/01_START_HERE_TODAY.md.
+1. Sulman confirms $300 Stripe payment.
+2. Person C (Backend) logs into Voiceflow, trains the bot on the client's URL, and builds the Make.com webhook.
+3. Person C copies the Javascript `<script>` tag and gives it to Person B.
+4. Person B logs into the client's WordPress/Shopify, pastes the script before `</body>`, and tests it on a mobile phone.
 
 --- 3-MAN TEAM DISTRIBUTION ---
 PERSON 1 (Sulman - The Pitch): Record the Loom showing the custom mockup and custom bot.

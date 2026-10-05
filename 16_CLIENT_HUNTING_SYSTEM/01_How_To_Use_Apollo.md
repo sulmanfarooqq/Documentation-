@@ -1,6 +1,8 @@
-# MASTER DOCUMENTATION
+# SIGNAL SOURCES
 
-This is the complete, A-to-Z Operating System for Techtox. Every file has been specifically planned and updated. Start at 14_EXECUTION_SYSTEM/01_START_HERE_TODAY.md.
+Where to find leads:
+1. Apollo.io: Search local businesses (1-10 employees).
+2. Google Maps: Search 'Dentist near me', click website, see if they lack a chatbot.
 
 --- 3-MAN TEAM DISTRIBUTION ---
 PERSON 1 (Sulman - The Pitch): Record the Loom showing the custom mockup and custom bot.

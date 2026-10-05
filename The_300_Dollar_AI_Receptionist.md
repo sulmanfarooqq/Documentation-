@@ -1,6 +1,7 @@
-# MASTER DOCUMENTATION
+# NICHE PACKAGES
 
-This is the complete, A-to-Z Operating System for Techtox. Every file has been specifically planned and updated. Start at 14_EXECUTION_SYSTEM/01_START_HERE_TODAY.md.
+Package 1: The AI Receptionist ($300). Answers FAQs and books calls.
+Package 2: There is no Package 2. Sell Package 1 until you make $10,000.
 
 --- 3-MAN TEAM DISTRIBUTION ---
 PERSON 1 (Sulman - The Pitch): Record the Loom showing the custom mockup and custom bot.

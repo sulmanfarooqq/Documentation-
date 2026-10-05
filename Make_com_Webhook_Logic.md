@@ -1,6 +1,6 @@
-# MASTER DOCUMENTATION
+# UML WORKFLOWS
 
-This is the complete, A-to-Z Operating System for Techtox. Every file has been specifically planned and updated. Start at 14_EXECUTION_SYSTEM/01_START_HERE_TODAY.md.
+Client Website -> Customer types in Chat -> Voiceflow processes NLP -> Make.com captures Name/Phone -> Make.com sends to Client Email -> Client calls the lead.
 
 --- 3-MAN TEAM DISTRIBUTION ---
 PERSON 1 (Sulman - The Pitch): Record the Loom showing the custom mockup and custom bot.

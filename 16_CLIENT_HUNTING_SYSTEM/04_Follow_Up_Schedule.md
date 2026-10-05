@@ -1,6 +1,6 @@
-# MASTER DOCUMENTATION
+# 7 DAY CLIENT SPRINT
 
-This is the complete, A-to-Z Operating System for Techtox. Every file has been specifically planned and updated. Start at 14_EXECUTION_SYSTEM/01_START_HERE_TODAY.md.
+For the next 7 days, Sulman does nothing but send Looms. Person B and C do nothing but learn Voiceflow and Make.com inside and out.
 
 --- 3-MAN TEAM DISTRIBUTION ---
 PERSON 1 (Sulman - The Pitch): Record the Loom showing the custom mockup and custom bot.

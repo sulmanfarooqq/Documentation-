@@ -1,7 +1,9 @@
-# Team of Three Operating System
-A owns revenue and client decisions; B owns engineering; C owns QA and proof.
-Read the role scorecards before assigning work.
-Use the project pod for every paid client engagement.
-Meetings exist to resolve blockers and make decisions, not perform progress theatre.
-Daily work follows the dashboard; one task has one accountable owner.
-Growth is earned through paid repeatable delivery, not headcount ambition.
+# TEAM OF 3 ROOT
+
+You are a triad. Sales, Frontend, Backend. If one fails, the triad fails. Read the Role Scorecards.
+
+--- 3-MAN TEAM DISTRIBUTION ---
+PERSON 1 (Sulman - The Pitch): Record the Loom showing the custom mockup and custom bot.
+PERSON 2 (Frontend - The Bait): Build a custom, beautiful 1-page mockup of the target's website.
+PERSON 3 (Backend - The Hook): Build a custom, working Voiceflow bot trained on the target's business.
+ACCOUNTABILITY: You are an Assembly Line. No one waits. Everyone hunts.

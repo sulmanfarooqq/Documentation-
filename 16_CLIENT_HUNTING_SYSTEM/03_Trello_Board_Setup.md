@@ -1,6 +1,11 @@
-# MASTER DOCUMENTATION
+# DAILY HUNT BOARD
 
-This is the complete, A-to-Z Operating System for Techtox. Every file has been specifically planned and updated. Start at 14_EXECUTION_SYSTEM/01_START_HERE_TODAY.md.
+Use Trello.
+Column 1: Leads Scraped (50).
+Column 2: Loom Recorded (30).
+Column 3: Email Sent (30).
+Column 4: Replied.
+Column 5: Paid.
 
 --- 3-MAN TEAM DISTRIBUTION ---
 PERSON 1 (Sulman - The Pitch): Record the Loom showing the custom mockup and custom bot.

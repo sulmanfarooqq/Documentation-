@@ -1,6 +1,9 @@
-# MASTER DOCUMENTATION
+# GROWTH GATES
 
-This is the complete, A-to-Z Operating System for Techtox. Every file has been specifically planned and updated. Start at 14_EXECUTION_SYSTEM/01_START_HERE_TODAY.md.
+Gate 1: Get $300 in Stripe.
+Gate 2: Deliver bot in 48 hours.
+Gate 3: Get a testimonial.
+Do not think about scaling to $10k/mo until you pass Gate 1.
 
 --- 3-MAN TEAM DISTRIBUTION ---
 PERSON 1 (Sulman - The Pitch): Record the Loom showing the custom mockup and custom bot.

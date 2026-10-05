@@ -1,6 +1,10 @@
-# MASTER DOCUMENTATION
+# MEETINGS POLICY
 
-This is the complete, A-to-Z Operating System for Techtox. Every file has been specifically planned and updated. Start at 14_EXECUTION_SYSTEM/01_START_HERE_TODAY.md.
+One meeting per day. 9:00 AM. 15 minutes max. Google Meet.
+Agenda:
+1. Sulman: Sales numbers.
+2. Person B: Frontend roadblocks.
+3. Person C: Backend roadblocks.
 
 --- 3-MAN TEAM DISTRIBUTION ---
 PERSON 1 (Sulman - The Pitch): Record the Loom showing the custom mockup and custom bot.

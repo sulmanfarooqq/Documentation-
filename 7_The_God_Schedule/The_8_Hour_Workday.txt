@@ -1,6 +1,9 @@
-# MASTER DOCUMENTATION
+DAILY ROUTINE
 
-This is the complete, A-to-Z Operating System for Techtox. Every file has been specifically planned and updated. Start at 14_EXECUTION_SYSTEM/01_START_HERE_TODAY.md.
+9:00 AM: Meeting.
+9:15 AM - 1:00 PM: Deep Work (Looms / Building).
+1:00 PM: Lunch.
+2:00 PM - 5:00 PM: Deep Work (Follow-ups / Testing).
 
 --- 3-MAN TEAM DISTRIBUTION ---
 PERSON 1 (Sulman - The Pitch): Record the Loom showing the custom mockup and custom bot.

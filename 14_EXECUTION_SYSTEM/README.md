@@ -1,8 +1,9 @@
-# Execution System
-Purpose: turn the agency plan into repeatable daily actions.
-Read 01 once, then use 02 every workday.
-Use 03 to prevent endless planning and tool-switching.
-Use 04 for a short execution sprint; use 05 to enforce ownership.
-Core test: 10 qualified first contacts + 10 follow-ups per workday.
-All activity feeds 00_EXECUTION_DASHBOARD.txt; do not maintain duplicate scoreboards.
-The system works only when it creates buyer conversations and paid, accepted delivery.
+# EXECUTION SYSTEM ROOT
+
+This folder governs how the 3 of you operate. Action over theory. Speed over perfection. Go to START_HERE_TODAY.md.
+
+--- 3-MAN TEAM DISTRIBUTION ---
+PERSON 1 (Sulman - The Pitch): Record the Loom showing the custom mockup and custom bot.
+PERSON 2 (Frontend - The Bait): Build a custom, beautiful 1-page mockup of the target's website.
+PERSON 3 (Backend - The Hook): Build a custom, working Voiceflow bot trained on the target's business.
+ACCOUNTABILITY: You are an Assembly Line. No one waits. Everyone hunts.
